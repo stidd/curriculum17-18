@@ -9,7 +9,7 @@ This calendar is a recommended schedule to be followed in ScriptEd courses.
 Foundations (Year 1)
 ===================
 | Unit | # of Lessons | Objectives | 
-|--------|:-------:|:---------:|
+|--------|:---:|:---------:|
 | [**0**](units/unit0)  Routines and Introductions | 2 | This unit consists of icebreaker activities for students and teachers. This unit will also be most students' first interaction with HTML.|
 | [**1**](units/unit1)  HTML: Content | 2 |In this unit students will be introduced to HTML. They will learn basic tag structure and will use the following tags `<head> <body> <p> <h1> <img> <a>`|
 | [**2**](units/unit2)  CSS Tag Selectors | 2 |In this unit students will be taught how to manipulate the style of a webpage using basic CSS selectors.|
