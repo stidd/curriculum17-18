@@ -6,11 +6,11 @@
 	<th>Objectives</th>
 </tr>
 <tr>
-	<td align="center"><a href=""> 1 </a></td>
+	<td align="center"><a href="https://docs.google.com/presentation/d/1f8k6dbLAK_W-BndUKSGMZ_qbbNxZxSJLsD-MMQSz8eA/edit#slide=id.g14ecb9111c_1_0"> 1 </a></td>
 	<td>In lesson 1, the students will be introduced to the console and value types. Students will use the <em>typeof()</em> function to test value types in the console.   </td>
 </tr>
 <tr>
-	<td align="center"><a href=""> 2 </a></td>
+	<td align="center"><a href="https://docs.google.com/presentation/d/1f8k6dbLAK_W-BndUKSGMZ_qbbNxZxSJLsD-MMQSz8eA/edit#slide=id.g14ecb9111c_1_0"> 2 </a></td>
 	<td>In lesson 2, students will evaluate the result of an expression using operators. </td>
 </tr>
 <tr>
