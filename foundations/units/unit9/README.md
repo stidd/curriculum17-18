@@ -1,6 +1,5 @@
 #Unit 9: JavaScript: Value Types, Operators, Variables, and Conditionals
 
-In this unit students are introduced to **Value Types, Operators, Variables, & Conditional Statements** through the course of making two games that ask the user to guess a certain word or number.
 <table>
 <tr>
 	<th>Lesson</th>
