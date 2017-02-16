@@ -28,12 +28,12 @@ In this unit students are introduced to **Value Types, Operators, Variables, & C
 </tr>
 
 <tr>
-	<td><a href="">5 Else</a></td>
+	<td><a href="">5 </a></td>
 	<td>In lesson 1 students are introduced to the concept of "else". They will create conditional statements with multiple outcomes.  </td>
 	
 </tr>
 <tr>
-	<td><a href="">6 Else</a></td>
+	<td><a href="">6 </a></td>
 	<td><strong>N/A</strong> Students will dive right into Project 2 after completing Topic 2 Lesson 1 </td>
 </tr>
 
@@ -42,7 +42,7 @@ In this unit students are introduced to **Value Types, Operators, Variables, & C
 	<td colspan="2">This project asks the students to create a game called HiLo. The premise is to guess a number predetermined by the program.</td>
 </tr>
 <tr>
-	<td > Unit Challenge </td>
+	<td > <a href=""> Unit Challenge </a> </td>
 	<td align="center" colspan="2"> hr.gs/unit9challenge </td>
 </tr>
 <tr>
