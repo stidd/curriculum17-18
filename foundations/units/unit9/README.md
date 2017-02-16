@@ -6,19 +6,19 @@
 	<th>Objectives</th>
 </tr>
 <tr>
-	<td><a href=""> 1 </a></td>
+	<td align="center"><a href=""> 1 </a></td>
 	<td>In lesson 1, the students will be introduced to the console and value types. Students will use the <em>typeof()</em> function to test value types in the console.   </td>
 </tr>
 <tr>
-	<td><a href=""> 2 </a></td>
+	<td align="center"><a href=""> 2 </a></td>
 	<td>In lesson 2, students will evaluate the result of an expression using operators. </td>
 </tr>
 <tr>
-	<td><a href=""> 3  </a></td>
+	<td align="center"><a href=""> 3  </a></td>
 	<td>In lesson 1 the students will create a mini project that uses variables. They will be working with strings throughout this practice too.   </td>
 </tr>
 <tr>
-	<td><a href=""> 4  </a></td>
+	<td align="center"><a href=""> 4  </a></td>
 	<td>In lesson 2 students are introduced to conditional statements using IF. They are then asked to incorporate this new knowledge into jQuery skill they already have.</td>
 </tr>
 <tr>
