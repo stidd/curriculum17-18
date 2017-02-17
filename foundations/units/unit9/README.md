@@ -47,7 +47,7 @@
 <tr>
 	<td align="center" ><strong><a href="">Extra Resources</a></strong></td>
 	<td colspan="2">
-		[Common Core & Computer Science Standards Alignment](csStandards.md)
+		[Common Core & Computer Science Standards Alignment](csStandards.md)<br>
 		<a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-9-conditionals-variables--strings">ScriptEd Unit 9 Wiki</a> (check this out for additional resources and add your own!)
 	</td>
 </tr>
