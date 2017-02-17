@@ -5,12 +5,12 @@
 This calendar is a recommended schedule to be followed in ScriptEd courses.
 
 
-Pacing Calendar (Year 1)
+<!-- Pacing Calendar (Year 1)
 ===================
 |  |  Sept | Oct | Nov | Dec | Jan | Feb | March | April | May |
 |:--------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Content| 0: Icebreaker 1: HTML Survey| 2: 3: 4: | 5: 6: 7: | 6: 7: | 8: 9: | 9: 10: | 11: 12: | 12: 13: | 14: |
-
+ -->
 
 
 Foundations (Year 1)
