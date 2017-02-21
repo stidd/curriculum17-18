@@ -1,16 +1,17 @@
 ###ScriptEd Curriculum 2016-2017
 
 
-![Imgur](http://i.imgur.com/P6Mdcqe.png)
+<!--![Imgur](http://i.imgur.com/P6Mdcqe.png)-->
+![Imgur](http://i.imgur.com/tYj6Ua0.png)
 This calendar is a recommended schedule to be followed in ScriptEd courses.
 
 
-<!-- Pacing Calendar (Year 1)
+<!--Pacing Calendar (Year 1)
 ===================
 |  |  Sept | Oct | Nov | Dec | Jan | Feb | March | April | May |
-|:--------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Content| 0: Icebreaker 1: HTML Survey| 2: 3: 4: | 5: 6: 7: | 6: 7: | 8: 9: | 9: 10: | 11: 12: | 12: 13: | 14: |
- -->
+|:--------:|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| Content| <sub> 0: Icebreaker <br> 1: HTML <br> Survey</sub>| <sub> 2: CSS Tag Selectors <br>3:HTML Lists, HTML IDs, Classes <br> 4:Positioning, Layout, Wireframing  </sub> |<sub> 5: jQuery: show/hide, events, inputs, .val() <br>6: Cloud9, Git, Multi-Page Sites <br>7: GitHub Collaboration </sub>| <sub>6: Cloud9, Git, Multi-Page Sites  <br>7: GitHub Collaboration </sub> |<sub> 8: JavaScript Introduction <br>9: Value Types, Operators, Variables, Conditionals </sub>| <sub> 9: Value Types, Operators, Variables, Conditionals <br>10: Functions </sub> | <sub>11: Math and Arrays <br>12: Animations and Collisions </sub>| <sub>12: Animations and Collisions <br>13: Looping</sub>|<sub> 14: Capstone Project</sub>|
+-->
 
 
 Foundations (Year 1)
