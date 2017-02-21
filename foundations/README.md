@@ -4,7 +4,7 @@
 <!--![Imgur](http://i.imgur.com/P6Mdcqe.png)-->
 
 ![Imgur](http://i.imgur.com/tYj6Ua0.png)
-This calendar is a recommended schedule to be followed in ScriptEd courses.
+
 
 
 <!--Pacing Calendar (Year 1)
