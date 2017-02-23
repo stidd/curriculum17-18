@@ -3,23 +3,42 @@
 <table>
 <tr>
 	<th>Lesson</th>
-	<th>Objectives</th>
+	<th>Objectives <br> Students will be able to ... </th>
 </tr>
 <tr>
 	<td align="center"><a target="_blank" href="https://docs.google.com/presentation/d/1f8k6dbLAK_W-BndUKSGMZ_qbbNxZxSJLsD-MMQSz8eA/edit#slide=id.g14ecb9111c_1_0"> 1 </a></td>
-	<td>In lesson 1, the students will be introduced to the console and value types. Students will use the <em>typeof()</em> function to test value types in the console.   </td>
+	<td>
+		<ul> 
+			<li> explain  the console and value types.</li> 
+			<li> use the <em>typeof()</em> function to test value types in the console. </li> 
+		</ul>
+	</td>
 </tr>
 <tr>
 	<td align="center"><a href="https://docs.google.com/presentation/d/1f8k6dbLAK_W-BndUKSGMZ_qbbNxZxSJLsD-MMQSz8eA/edit#slide=id.g14ecb9111c_1_0"> 2 </a></td>
-	<td>In lesson 2, students will evaluate the result of an expression using operators. </td>
+	<td>
+		<ul> 
+			<li> evaluate the result of an expression using operators.</li>  
+		</ul> 
+	</td>
 </tr>
 <tr>
 	<td align="center"><a href=""> 3  </a></td>
-	<td>In lesson 1 the students will create a mini project that uses variables. They will be working with strings throughout this practice too.   </td>
+	<td>
+		<ul> 
+			<li> create a mini project that uses variables.</li> 
+			<li> work with strings throughout this practice </li>  
+		</ul> 
+	</td>
 </tr>
 <tr>
 	<td align="center"><a href=""> 4  </a></td>
-	<td>In lesson 2 students are introduced to conditional statements using IF. They are then asked to incorporate this new knowledge into jQuery skill they already have.</td>
+	<td>
+		<ul> 
+			<li> introduced to conditional statements using IF</li> 
+			<li> incorporate this new knowledge into jQuery skill they already have </li>  
+		</ul> 
+	</td>
 </tr>
 <tr>
 	<td align="center"><strong><a href="">Project 1</a></strong></td>
@@ -28,12 +47,20 @@
 
 <tr>
 	<td align="center"><a href="">5 </a></td>
-	<td>In lesson 1 students are introduced to the concept of "else". They will create conditional statements with multiple outcomes.  </td>
-	
+	<td>
+		<ul> 
+			<li> introduced to the concept of "else"</li> 
+			<li> create conditional statements with multiple outcomes</li>  
+		</ul> 
+	</td>
 </tr>
 <tr>
 	<td align="center"><a href="">6 </a></td>
-	<td><strong>N/A</strong> Students will dive right into Project 2 after completing Topic 2 Lesson 1 </td>
+	<td>
+		<ul> 
+			<li> <strong>N/A</strong> Students will dive right into Project 2 after completing Topic 2 Lesson 1</li> 
+		</ul> 
+	 </td>
 </tr>
 
 <tr>
