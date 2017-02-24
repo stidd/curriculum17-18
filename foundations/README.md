@@ -17,24 +17,24 @@
 
 Foundations (Year 1)
 ===================
-| Unit | Topic |# of Lessons | Objectives <br> Students wil be able to ... | 
+| Unit |# of Lessons | Objectives <br> Students wil be able to ... | 
 |:--------:|:---:|:---:|:---------|
-| [**0**](units/unit0) | Routines and Introductions | 2 | <ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**1**](units/unit1) | HTML <br> Content | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**2**](units/unit2) | CSS | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**3**](units/unit3) | HTML <br> Lists <br> div  | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul> |
-| [**4**](units/unit4)  | Positioning <br> Layout <br> Wireframing | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**5**](units/unit5) | jQuery | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**6**](units/unit6) | Cloud9 <br> Git | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**7**](units/unit7) | Collaberation  | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**Review Unit**](units/unitReview) | Review | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul> |
-| [**8**](units/unit8) | JavaScript <br> Introduction | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**9**](units/unit9) | JavaScript: <br> Value Types<br> Operators<br> Variables<br> Conditionals| 2 | <ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**10**](units/unit10) | JavaScript: <br> Functions| 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**11**](units/unit11) | JavaScript: <br> Math & Arrays| 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**12**](units/unit12) | JavaScript: <br>Animations <br> Collisions| 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**13**](units/unit13) | JavaScript: <br> Looping| 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**14**](units/unit14) | Capstone <br> Project | 2 |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game.|
+| [**0 Welcome**](units/unit0) | 2 | <ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**1  HTML Intro**](units/unit1) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**2 CSS Intro**](units/unit2) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**3 HTML Cont.**](units/unit3) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul> |
+| [**4 Positioning**](units/unit4) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**5 jQuery**](units/unit5) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**6 Cloud9**](units/unit6) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**7 Collaberation**](units/unit7) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**Review Unit**](units/unitReview) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul> |
+| [**8 JavaScript Intro**](units/unit8) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**9 Types, Conditionals**](units/unit9) | 2 | <ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**10 Functions**](units/unit10) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**11 Math & Arrays**](units/unit11) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**12 Animations and Collisions**](units/unit12) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**13 Looping**](units/unit13) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**14 Capstone Project**](units/unit14) | 2 |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game.|
 
 
 
