@@ -9,9 +9,9 @@
 <!--
 Pacing Calendar (Year 1)
 ===================
-|  |  Sept | Oct | Nov | Dec | Jan | Feb | March | April | May |
-|:--------:|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Content| <sub> 0:Welcome <br> 1: HTML <br> Survey</sub>| <sub> 2: CSS  <br>3: HTML  <br> 4:Positioning </sub> |<sub> 5: jQuery <br>6: Cloud9 <br>7: Collaboration </sub>| <sub>6: Cloud9  <br>7: Collaboration </sub> |<sub> 8: JavaScript Intro <br>9: Types, Conditionals </sub>| <sub> 9:  Types, Conditionals <br>10: Functions </sub> | <sub>11: Math and Arrays <br>12: Animations and Collisions </sub>| <sub>12: Animations and Collisions <br>13: Looping</sub>|<sub> 14: Capstone Project</sub>|
+|  Sept | Oct | Nov | Dec | Jan | Feb | March | April | May |
+|:--------|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| <sub> [**0:Welcome**](units/unit0) <br> 1: HTML <br> **Survey**</sub>| <sub> 2:CSS  <br>3:HTML  <br> 4:Positioning </sub> |<sub> 5:jQuery <br>6:Cloud9 <br>7:Github </sub>| <sub>6:Cloud9  <br>7:Github </sub> |<sub> 8:JavaScript  <br>9:Types, Conditionals </sub>| <sub> 9: Types, Conditionals <br>10:Functions </sub> | <sub>11:Arrays <br>12:Animations </sub>| <sub>12:Animations <br>13:Looping</sub>|<sub> 14:Capstone <br> Survey </sub>|
 -->
 
 
