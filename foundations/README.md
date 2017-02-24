@@ -6,12 +6,12 @@
 ![Imgur](http://i.imgur.com/tYj6Ua0.png)
 
 
-
-<!--Pacing Calendar (Year 1)
+<!--
+Pacing Calendar (Year 1)
 ===================
 |  |  Sept | Oct | Nov | Dec | Jan | Feb | March | April | May |
 |:--------:|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Content| <sub> 0: Icebreaker <br> 1: HTML <br> Survey</sub>| <sub> 2: CSS Tag Selectors <br>3:HTML Lists, HTML IDs, Classes <br> 4:Positioning, Layout, Wireframing  </sub> |<sub> 5: jQuery: show/hide, events, inputs, .val() <br>6: Cloud9, Git, Multi-Page Sites <br>7: GitHub Collaboration </sub>| <sub>6: Cloud9, Git, Multi-Page Sites  <br>7: GitHub Collaboration </sub> |<sub> 8: JavaScript Introduction <br>9: Value Types, Operators, Variables, Conditionals </sub>| <sub> 9: Value Types, Operators, Variables, Conditionals <br>10: Functions </sub> | <sub>11: Math and Arrays <br>12: Animations and Collisions </sub>| <sub>12: Animations and Collisions <br>13: Looping</sub>|<sub> 14: Capstone Project</sub>|
+| Content| <sub> 0:Welcome <br> 1: HTML <br> Survey</sub>| <sub> 2: CSS  <br>3: HTML  <br> 4:Positioning </sub> |<sub> 5: jQuery <br>6: Cloud9 <br>7: Collaboration </sub>| <sub>6: Cloud9  <br>7: Collaboration </sub> |<sub> 8: JavaScript Intro <br>9: Types, Conditionals </sub>| <sub> 9:  Types, Conditionals <br>10: Functions </sub> | <sub>11: Math and Arrays <br>12: Animations and Collisions </sub>| <sub>12: Animations and Collisions <br>13: Looping</sub>|<sub> 14: Capstone Project</sub>|
 -->
 
 
