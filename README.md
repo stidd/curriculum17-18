@@ -1,6 +1,7 @@
-# ScriptEd Curriculum 2017-2018
-![Imgur](http://i.imgur.com/KxRicIt.png)
 
+![Imgur](http://i.imgur.com/KxRicIt.png)
+<h3 align = "center"> ScriptEd Curriculum 2017-2018</h3>
+<br>
 |Level|Overview|
 |----|----|
 |[Foundations Course](foundations)| The focus of this course is **Exposure**. Students are given their first introduction to coding. They will create projects in HTML, CSS and JavaScript.|
