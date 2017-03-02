@@ -5,7 +5,7 @@
 	<th>Objectives <br> Students will be able to ... </th>
 </tr>
 <tr>
-	<td align="center"><a target="_blank" href="https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.gc63b2358e_0_0"> 1 </a></td>
+	<td align="center"><a target="_blank" href="https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1"> 1 </a></td>
 	<td>
 		<ul> 
 			<li> explain  the console and value types.</li> 
@@ -14,7 +14,7 @@
 	</td>
 </tr>
 <tr>
-	<td align="center"><a href="https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.gc63b2358e_0_0"> 2 </a></td>
+	<td align="center"><a href="https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1"> 2 </a></td>
 	<td>
 		<ul> 
 			<li> evaluate the result of an expression using operators.</li>  
