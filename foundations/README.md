@@ -1,6 +1,5 @@
-###ScriptEd Curriculum 2016-2017
-
-
+Foundations
+===================
 <!--![Imgur](http://i.imgur.com/P6Mdcqe.png)-->
 
 ![Imgur](http://i.imgur.com/tYj6Ua0.png)
@@ -15,8 +14,8 @@ Pacing Calendar (Year 1)
 -->
 
 
-Foundations (Year 1)
-===================
+##Scope and Sequence 
+
 | Unit |# of Lessons | Objectives <br> Students wil be able to ... | 
 |:--------|:---:|:---------|
 | [**0: Welcome**](units/unit0) | 2 | <ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
