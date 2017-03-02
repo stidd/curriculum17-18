@@ -1,5 +1,4 @@
-#Unit 9: JavaScript: Value Types, Operators, Variables, and Conditionals
-
+#Unit 9: Types and Conditionals
 <table>
 <tr>
 	<th>Lesson</th>
