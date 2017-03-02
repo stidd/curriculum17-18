@@ -8,7 +8,7 @@
 |ScriptEd Studio| The focus of this course is **Agency**. The ScriptEd Studio provides ScriptEd's most experienced students with the opportunity to complete passion projects with help from ScriptEd mentors.|
 
 ####<a align="center" href="LINK HERE">ScriptEd Student Skills Rubric</a>, 
-##<p align="center">aligned to Common Core and CSTA K–12 Computer Science standards</p>
+<p align="center">aligned to Common Core and CSTA K–12 Computer Science standards</p>
 
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 ScriptEd Curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. 
