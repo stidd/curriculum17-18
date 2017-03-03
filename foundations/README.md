@@ -35,7 +35,7 @@ Pacing Calendar (Year 1)
 ----
 ## Wiki
 
-Click [here]() for additional resources and activities.
+* Click [here]() for additional resources and activities.
 
 ----
 ##School Teacher Resources
