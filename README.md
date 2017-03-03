@@ -1,7 +1,4 @@
-![Imgur](http://i.imgur.com/KxRicIt.png)
-
-
-<center>text</center>
+<p align="center"> <img src="http://i.imgur.com/KxRicIt.png" ></p>
 
 |Level|Overview|
 |----|----|
