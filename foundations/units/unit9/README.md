@@ -1,4 +1,5 @@
 #Unit 9: Types and Conditionals
+
 |Lesson|Objectives <br> Students will be able to ...|
 |:-------:|:-------|
 |[**1**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|<li> explain  the console and value types.</li> <li> use the typeof()function to test value types in the console. </li>|
@@ -13,10 +14,6 @@
 |**Extra Resources**|<li><a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-9-conditionals-variables--strings">ScriptEd Unit 9 Wiki</a></li>|
 
 
-
-
-
-##Submit Your Feedback
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Submit Your Feedback!</a></h3>
 
 
