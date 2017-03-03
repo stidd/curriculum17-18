@@ -10,8 +10,8 @@
 |[**5**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|45|<li> introduced to the concept of "else"</li> <li> create **conditional statements** with multiple outcomes</li> ||
 |[**6**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|45|<li> <strong>N/A</strong> Students will dive right into Project 2 after completing Topic 2 Lesson 1</li> ||
 |[**Project 2**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|135|This project asks the students to create a game called HiLo. The premise is to guess a number predetermined by the program.||
-|**Unit Challenge**||<a  href="hr.gs/unit9challenge">hr.gs/unit9challenge</a>|10||
-|**Extra Resources**||<a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-9-conditionals-variables--strings">ScriptEd Unit 9 Wiki</a>||
+|**Unit Challenge**|10|<a  href="hr.gs/unit9challenge">hr.gs/unit9challenge</a>|||
+|**Wiki**||<a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-9-conditionals-variables--strings">ScriptEd Unit 9 Wiki</a>||
 
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Submit Your Feedback!</a></h3>
