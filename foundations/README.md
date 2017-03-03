@@ -33,7 +33,8 @@ Pacing Calendar (Year 1)
 | [**14: Capstone Project**](units/unit14) | 2 lessons <br> 1 project  |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game.|
 
 ----
-##[Wiki]()
+## Wiki
+Click [here]() for additional resources and activities
 ----
 ##School Teacher Resources
 
