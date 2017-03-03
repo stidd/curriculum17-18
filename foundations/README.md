@@ -40,6 +40,12 @@ Pacing Calendar (Year 1)
 * [Course Syllabus](../resources/foundationsSyllabus.pdf)
 
 ----
+##Wiki
+* Link to the Wiki
+* Other Link
+
+----
+
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
 ScriptEd Curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. 
