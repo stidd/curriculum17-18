@@ -1,5 +1,3 @@
-
-# ScriptEd Curriculum 2017-2018
 ![Imgur](http://i.imgur.com/KxRicIt.png)
 
 |Level|Overview|
