@@ -10,7 +10,7 @@
 |[**5**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|45|<li> introduced to the concept of "else"</li> <li> create **conditional statements** with multiple outcomes</li> |
 |[**6**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|45|<li> <strong>N/A</strong> Students will dive right into Project 2 after completing Topic 2 Lesson 1</li> |
 |[**Project**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|135|This project asks the students to create a game called HiLo. The premise is to guess a number predetermined by the program.|
-|**Unit Challenge**||<p align="center"><a  href="hr.gs/unit9challenge">hr.gs/unit9challenge</a></p>|10|
+|**Unit Challenge**||<li><a  href="hr.gs/unit9challenge">hr.gs/unit9challenge</a></li>|10|
 |**Extra Resources**||<li><a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-9-conditionals-variables--strings">ScriptEd Unit 9 Wiki</a></li>|
 
 
