@@ -1,5 +1,8 @@
 ![Imgur](http://i.imgur.com/KxRicIt.png)
 
+
+<center>text</center>
+
 |Level|Overview|
 |----|----|
 |[Foundations Course](foundations)| The focus of this course is **Exposure**. Students are given their first introduction to coding. They will create projects in HTML, CSS and JavaScript.|
