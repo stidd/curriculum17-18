@@ -16,24 +16,24 @@ Pacing Calendar (Year 1)
 
 ##Scope and Sequence 
 
-| Unit |# of Lessons | Objectives <br> Students wil be able to ... | 
+| Unit | Layout | Objectives <br> Students wil be able to ... | 
 |:--------|:---:|:---------|
-| [**0: Welcome**](units/unit0) | 2 | <ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**1:  HTML Intro**](units/unit1) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**2: CSS Intro**](units/unit2) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**3: HTML Cont.**](units/unit3) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul> |
-| [**4: Positioning**](units/unit4) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**5: jQuery**](units/unit5) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**6: Cloud9**](units/unit6) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li> <li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**7: Collaberation**](units/unit7) | 2 |<ul><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**Review Unit**](units/unitReview) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul> |
-| [**8: JavaScript Intro**](units/unit8) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**9: Types, Conditionals**](units/unit9) | 2 | <ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**10: Functions**](units/unit10) | 2 |<ul><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**11: Math & Arrays**](units/unit11) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**12: Animations and Collisions**](units/unit12) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**13: Looping**](units/unit13) | 2 |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**14: Capstone Project**](units/unit14) | 2 |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game.|
+| [**0: Welcome**](units/unit0) | 2 lessons <br> 1 project | <ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**1:  HTML Intro**](units/unit1) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**2: CSS Intro**](units/unit2) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**3: HTML Cont.**](units/unit3) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul> |
+| [**4: Positioning**](units/unit4) | 2 lessons <br> 1 project |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**5: jQuery**](units/unit5) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**6: Cloud9**](units/unit6) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li> <li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**7: Collaberation**](units/unit7) | 2 lessons <br> 1 project  |<ul><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**Review Unit**](units/unitReview) |   |<ul> <li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul> |
+| [**8: JavaScript Intro**](units/unit8) | 2 lessons <br> 1 project |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**9: Types, Conditionals**](units/unit9) | 5 lessons <br> 2 project  | <ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**10: Functions**](units/unit10) | 2 lessons <br> 1 project  |<ul><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**11: Math & Arrays**](units/unit11) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**12: Animations and Collisions**](units/unit12) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**13: Looping**](units/unit13) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**14: Capstone Project**](units/unit14) | 2 lessons <br> 1 project  |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game.|
 
 
 
