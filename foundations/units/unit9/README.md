@@ -1,6 +1,6 @@
 #Unit 9: Types and Conditionals
 
-|Lesson|Time|Objectives <br> *Students will be able to ...*|
+|Lesson|Minutes|Objectives <br> *Students will be able to ...*|
 |:-------:|:-------:|:-------|
 |[**1**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|45|<li> explain  the **console** and **value types**.</li> <li> use the **typeof()** function to test value types in the **console**. </li>|
 |[**2**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|45|<li> evaluate the result of an expression using **operators**.</li>|
