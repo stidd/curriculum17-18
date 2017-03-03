@@ -32,10 +32,14 @@ Pacing Calendar (Year 1)
 | [**13: Looping**](units/unit13) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
 | [**14: Capstone Project**](units/unit14) | 2 lessons <br> 1 project  |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game.|
 
+----
+##School Teacher Resources
 
+* [Pacing Guide for in-class teachers](https://docs.google.com/document/d/1OMvWCohkD68hIjBKMevw99etwpVFE32XCBaGakV6eB8/edit?usp=sharing): To be used in ScriptEd course that are co-taught with a teacher from the school.
+* [CodeCademy Class Creator Guidelines](https://docs.google.com/document/d/1-6vh1QM2h0tZzTIl_183C_lt7ezv_pQ-QXsHQKkDAgQ/edit)  
+* [Course Syllabus](../resources/foundationsSyllabus.pdf)
 
-
-<br>
+----
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
 ScriptEd Curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. 
