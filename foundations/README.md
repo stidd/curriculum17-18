@@ -13,7 +13,7 @@ Pacing Calendar (Year 1)
 
 ##Scope and Sequence 
 
-| Unit | Overview | Objectives <br> *Students wil be able to...*| 
+| Unit | Overview | Objectives <br> Coders wil be able to...*| 
 |:--------|:---:|:---------|
 | [**0: Welcome**](units/unit0) | 2 lessons <br> 1 project | <ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
 | [**1:  HTML Intro**](units/unit1) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
@@ -30,7 +30,7 @@ Pacing Calendar (Year 1)
 | [**11: Math & Arrays**](units/unit11) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
 | [**12: Animations and Collisions**](units/unit12) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
 | [**13: Looping**](units/unit13) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**14: Capstone Project**](units/unit14) | 2 lessons <br> 1 project  |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game.|
+| [**14: Capstone Project**](units/unit14) | 2 lessons <br> 1 project  | Coders will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game.|
 
 ----
 ## Wiki
