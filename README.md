@@ -1,6 +1,6 @@
 <p align="center"> <img src="http://i.imgur.com/KxRicIt.png" ></p>
 
-|Level|Overview|
+|Level|Description|
 |----|----|
 |[Foundations Course](foundations)| The focus of this course is **Exposure**. Students are given their first introduction to coding. They will create projects in HTML, CSS and JavaScript.|
 |[Advanced Course](year2)| The focus of this course is **Experience**. In this course the coders further develop their web development technical skills through lessons and projects that interact with JSON and popular APIs. Coders will also be challenged to improve their professional skills in this course.|
@@ -8,7 +8,7 @@
 
 ====
 
-<h4 align="center"><a href="LINK HERE"> ScriptEd Coder Skills Rubric </a>, aligned to Common Core and CSTA K–12 Computer Science standards.</h4>
+<h4 align="center"><a href="LINK HERE"> ScriptEd Coder Skills Rubric,</a> aligned to Common Core and CSTA K–12 Computer Science standards.</h4>
 <br>
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
