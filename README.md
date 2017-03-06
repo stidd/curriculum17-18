@@ -8,7 +8,7 @@
 
 ====
 
-<h4 align="center"><a href="LINK HERE"> ScriptEd Coder Skills Rubric,</a> aligned to Common Core and CSTA K–12 Computer Science standards.</h4>
+<h4><a href="LINK HERE"> ScriptEd Coder Skills Rubric,</a> aligned to Common Core and CSTA K–12 Computer Science standards.</h4>
 <br>
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
