@@ -2,7 +2,7 @@
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
 |:-------:|:-------:|:-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|45| 1. explain  the **console** and **value types**. <br> 2. Use the **typeof()** function to test value types in the **console**. |[Guided Notes]()<br>[Homework]()<br>[Exit Slip]()|
+|[**1**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|45| 1. explain  the **console** and **value types**. <br> 2. Use the **typeof()** function to test value types in the **console**. |[Resource 1]()<br>[Resource 2]()|
 |[**2**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|45|<li> evaluate the result of an expression using **operators**.</li>|[Resource 1]()<br>[Resource 2]()|
 |[**3**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|45|<li> create a mini project that uses **variables**.</li> <li> work with **strings** throughout this practice </li>|[Kim and Kayne MadLibs](https://gist.github.com/Bijesse/fc6d7f083812193edde5ac3f9865d11a)<br>[Resource 2]()|
 |[**4**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|45|<li> introduced to conditional statements using IF</li> <li> incorporate this new knowledge into **jQuery** skill they already have </li> |[Resource 1]()<br>[Resource 2]()|
