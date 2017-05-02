@@ -6,6 +6,7 @@ Advanced Course
 
 | Time  | Unit | Topics/Skills | Description |
 |-------|:-------:|------|--------------|
+| 1 session| [Intro](units/1-review) | Get To Know You | Routines and Procedures, Get to know you |
 | 1 session| [Review](units/1-review) | HTML CSS JS | Students will be challenged with multiple mini-challenges using content from ScriptEd year 1. They will then take a deeper dive into concepts that need revisiting. |
 | 3 sessions | [Portfolio](units/2-websiteRedesign) | Bootstrap & GitHub Pages| Student will take apart a website and give the homepage a redesign using Bootstrap. This project will be completed in pairs. |
 | 3 sessions | [Rock, Paper, Scissors](units/4-RPS) | jQuery, Math, JS Functions & conditionals | Students will first create a Rock, Paper, Scissors game that works functionally in the console. They will then create a webapp for their game using click events.|
