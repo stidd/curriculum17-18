@@ -6,18 +6,16 @@ Advanced Course
 
 | Time  | Unit | Topics/Skills | Description |
 |-------|:-------:|------|--------------|
-| 1 session | [Intro](units/0-intro) | Advanced Class Launch Event | All advanced students will meet at a central location. At this event, students will learn about the expectations for the course, meet the larger Advanced Program student community, and be notified of their company placement. |
-| 3 sessions| [Review](units/1-review) | JS Types| Students will be challenged with multiple mini-challenges using content from ScriptEd year 1. They will then take a deeper dive into concepts that need revisiting. |
-| 2 sessions | [Website Redesign](units/2-websiteRedesign) | Bootstrap & GitHub Pages| Student will take apart a website and give the homepage a redesign using Bootstrap. This project will be completed in pairs. |
-| 1 session| [Portfolio](units/3-portfolio) | Professionalism| In this session students will create a professional portfoilio in which they can upload all their projects to.|
-| 2 sessions | [Rock, Paper, Scissors](units/4-RPS) | jQuery, Math, JS Functions & conditionals | Students will first create a Rock, Paper, Scissors game that works functionally in the console. They will then create a webapp for their game using click events.|
-| 2 sessions | [JS Objects](units/5-JSobjects) | Objects| Students will create objects and call information from them. |
-| 2 sessions | [Giphy API](units/6-giphyAPI) | API, JSON, Dev Tools| Students will create a webapp using the Giphy API|
-| 2 sessions | [Open Weather API](units/7-openWeatherAPI) | API, JSON, Dev Tools| Students will create a webapp using the Open Weather API|
-| 45 minutes | [Mid Year Coding Challenge](units/midYearChallenge) | All| Students will take a coding challenge that will test all the skills they have been taught so far.|
-| 2 sessions | [Optional Unit: Foursquare API](units/opt-FoursquareAPI) | API, JSON, Dev Tools| Students will create a webapp using the Foursquare API. This project uses the same skills as the two preceding it. Time can often be more effectively utilized moving to straight to the next project. |
-| 1 session| [Technical Interviewing](units/8-techInterviewing) | Professional Skills| What to expect in a technical interview and Staying involved in the Tech community. |
-| 5-8 sessions | [Entreprenuer](units/9-entrepreneur) | Project Management| Students will be creating their own product in small teams. |
+| 1 session| [Review](units/1-review) | HTML CSS JS | Students will be challenged with multiple mini-challenges using content from ScriptEd year 1. They will then take a deeper dive into concepts that need revisiting. |
+| 3 sessions | [Portfolio](units/2-websiteRedesign) | Bootstrap & GitHub Pages| Student will take apart a website and give the homepage a redesign using Bootstrap. This project will be completed in pairs. |
+| 3 sessions | [Rock, Paper, Scissors](units/4-RPS) | jQuery, Math, JS Functions & conditionals | Students will first create a Rock, Paper, Scissors game that works functionally in the console. They will then create a webapp for their game using click events.|
+| 3 sessions | [Text Transfromer](units/5-JSobjects) | Objects| Students will create objects and call information from them. |
+| 3 sessions | [Person Object](units/5-JSobjects) | Objects| Students will create objects and call information from them. |
+| 3 sessions | [JSON](units/6-giphyAPI) |  JSON | Students will create a webapp using the Giphy API|
+| 1 session | [Playlist](units/midYearChallenge) | All| Students will take a coding challenge that will test all the skills they have been taught so far.|
+| 3 sessions | [ScriptEd  API](units/7-openWeatherAPI) | API, JSON, Dev Tools| Students will create a webapp using the Open Weather API|
+| 3 sessions | [External API](units/opt-FoursquareAPI) | API, JSON, Dev Tools| Students will create a webapp using the Foursquare API. This project uses the same skills as the two preceding it. Time can often be more effectively utilized moving to straight to the next project. |
+| 7 sessions | [Entreprenuer](units/9-entrepreneur) | Project Management| Students will be creating their own product in small teams. |
 
 ####Misc Lessons, Games and Projects
 
