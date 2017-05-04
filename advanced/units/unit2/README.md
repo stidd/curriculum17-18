@@ -1,7 +1,7 @@
 # Unit 2: Rock Paper Scissors
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
-|:-------:|:-------:|:-------|:-------|
+|:-------:|:-------:|:-------|
 |[**1**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|120| <li> Coders will be able to set variables.</li> <li> Coders will be able to create and call items from arrays.</li> |
 |[**2**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|120|<li> Coders will be able to generate random whole numbers</li> <li> Coders will be able to create click handlers</li>|
 |[**3**](https://docs.google.com/presentation/d/1sSs1eipYkWUv-Q2f89f8W7c7VonvglekrFlGgBDHXYc/edit#slide=id.g1b20bbcb39_0_1)|120|<li> Coders will be able use conditionals</li> <li> Coders will be able to refactor code into functions</li>|
