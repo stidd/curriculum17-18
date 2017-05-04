@@ -1,4 +1,4 @@
-#Unit 2: Rock Paper Scissors
+# Unit 2: Rock Paper Scissors
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
 |:-------:|:-------:|:-------|:-------|
@@ -9,6 +9,3 @@
 
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Submit Your Feedback!</a></h3>
-
-
-
