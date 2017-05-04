@@ -3,8 +3,8 @@
 |Level|Description|
 |----|----|
 |[Foundations Course](foundations)| The focus of this course is **Exposure**. Students are given their first introduction to coding. They will create projects in HTML, CSS and JavaScript.|
-|[Advanced Course](year2)| The focus of this course is **Experience**. In this course the coders further develop their web development technical skills through lessons and projects that interact with JSON and popular APIs. Coders will also be challenged to improve their professional skills in this course.|
-|ScriptEd Studio| The focus of this course is **Agency**. The ScriptEd Studio provides ScriptEd's most experienced coders with the opportunity to complete passion projects with help from ScriptEd mentors.|
+|[Advanced Course](advanced)| The focus of this course is **Experience**. In this course the coders further develop their web development technical skills through lessons and projects that interact with JSON and popular APIs. Coders will also be challenged to improve their professional skills in this course.|
+|[ScriptEd Studio](studio)| The focus of this course is **Agency**. The ScriptEd Studio provides ScriptEd's most experienced coders with the opportunity to complete passion projects with help from ScriptEd mentors.|
 
 ====
 
