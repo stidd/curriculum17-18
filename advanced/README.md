@@ -23,7 +23,7 @@
 
 * Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#foundations-course-resources) for additional resources and activities.
 
-
+----
 **Curriculum developed by**: Ali Hoefinger, Becky Segal, Matt Gerrior
 
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
