@@ -18,6 +18,18 @@
 | [**7:External API**](units/opt-FoursquareAPI)| 3   | API, JSON, Dev Tools| Students will create a webapp using the Foursquare API. This project uses the same skills as the two preceding it. Time can often be more effectively utilized moving to straight to the next project. |
 | [**Final Project**](units/9-entrepreneur) | 5  | Project Management| Students will be creating their own product in small teams. |
 
+----
+## Wiki
+
+* Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#foundations-course-resources) for additional resources and activities.
+
+
+**Curriculum developed by**: Ali Hoefinger, Becky Segal, Matt Gerrior
+
+For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
+<br>
+
+
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
 ScriptEd Curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. 
