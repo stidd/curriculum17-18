@@ -1,22 +1,21 @@
 # ScriptEd Curriculum 2017-2018
 
-## Sequence
+## Pacing Calendar
 
-## Advanced Course
-===================
+## Scope and Sequence
 
-| Time  | Unit | Topics/Skills | Description |
+| Unit  | Overview | Topics/Skills | Description |
 |-------|:-------:|------|--------------|
-| 2 session| [Intro and Review](units/unit0) | Get To Know You | Routines and Procedures, Get to know you |
-| 3 sessions | [Portfolio](units/unit1) | Bootstrap & GitHub Pages| Student will take apart a website and give the homepage a redesign using Bootstrap. This project will be completed in pairs. |
-| 3 sessions | [Rock, Paper, Scissors](units/unit2) | jQuery, Math, JS Functions & conditionals | Students will first create a Rock, Paper, Scissors game that works functionally in the console. They will then create a webapp for their game using click events.|
-| 3 sessions | [Text Transfromer](units/5-JSobjects) | Objects| Students will create objects and call information from them. |
-| 3 sessions | [Person Object](units/5-JSobjects) | Objects| Students will create objects and call information from them. |
-| 3 sessions | [JSON](units/6-giphyAPI) |  JSON | Students will create a webapp using the Giphy API|
-| 1 session | [Playlist](units/midYearChallenge) | All| Students will take a coding challenge that will test all the skills they have been taught so far.|
-| 3 sessions | [ScriptEd  API](units/7-openWeatherAPI) | API, JSON, Dev Tools| Students will create a webapp using the Open Weather API|
-| 3 sessions | [External API](units/opt-FoursquareAPI) | API, JSON, Dev Tools| Students will create a webapp using the Foursquare API. This project uses the same skills as the two preceding it. Time can often be more effectively utilized moving to straight to the next project. |
-| 7 sessions | [Entreprenuer](units/9-entrepreneur) | Project Management| Students will be creating their own product in small teams. |
+|  [Intro and Review](units/unit0)|2 session | Get To Know You | Routines and Procedures, Get to know you |
+| [Portfolio](units/unit1) | 3 sessions | Bootstrap & GitHub Pages| Student will take apart a website and give the homepage a redesign using Bootstrap. This project will be completed in pairs. |
+| [Rock, Paper, Scissors](units/unit2) | 3 sessions | jQuery, Math, JS Functions & conditionals | Students will first create a Rock, Paper, Scissors game that works functionally in the console. They will then create a webapp for their game using click events.|
+| [Text Transfromer](units/5-JSobjects) | 3 sessions | Objects| Students will create objects and call information from them. |
+| [Person Object](units/5-JSobjects) | 3 sessions | Objects| Students will create objects and call information from them. |
+| [JSON](units/6-giphyAPI) | 3 sessions |  JSON | Students will create a webapp using the Giphy API|
+| [Playlist](units/midYearChallenge) | 1 session | All| Students will take a coding challenge that will test all the skills they have been taught so far.|
+| [ScriptEd  API](units/7-openWeatherAPI) | 3 sessions | API, JSON, Dev Tools| Students will create a webapp using the Open Weather API|
+| [External API](units/opt-FoursquareAPI)| 3 sessions  | API, JSON, Dev Tools| Students will create a webapp using the Foursquare API. This project uses the same skills as the two preceding it. Time can often be more effectively utilized moving to straight to the next project. |
+| [Entreprenuer](units/9-entrepreneur) | 5 sessions | Project Management| Students will be creating their own product in small teams. |
 
 ####Misc Lessons, Games and Projects
 
