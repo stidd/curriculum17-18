@@ -1,7 +1,8 @@
 # ScriptEd Curriculum 2017-2018
 
+## Sequence
 
-Advanced Course
+## Advanced Course
 ===================
 
 | Time  | Unit | Topics/Skills | Description |
