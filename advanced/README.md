@@ -21,7 +21,7 @@
 ----
 ## Wiki
 
-* Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#foundations-course-resources) for additional resources and activities.
+* Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced) for additional resources and activities.
 
 ----
 **Curriculum developed by**: Ali Hoefinger, Becky Segal, Matt Gerrior
