@@ -8,10 +8,10 @@ Pacing Calendar (Year 1)
 |:--------|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | <sub> [**0:Welcome**](units/unit0) <br> 1: HTML <br> **Survey**</sub>| <sub> 2:CSS  <br>3:HTML  <br> 4:Positioning </sub> |<sub> 5:jQuery <br>6:Cloud9 <br>7:Github </sub>| <sub>6:Cloud9  <br>7:Github </sub> |<sub> 8:JavaScript  <br>9:Types, Conditionals </sub>| <sub> 9: Types, Conditionals <br>10:Functions </sub> | <sub>11:Arrays <br>12:Animations </sub>| <sub>12:Animations <br>13:Looping</sub>|<sub> 14:Capstone <br> Survey </sub>|
 -->
-##Pacing Calendar
+## Pacing Calendar
 ![Imgur](http://i.imgur.com/OpND1ZY.png)
 
-##Scope and Sequence 
+## Scope and Sequence 
 
 | Unit | Overview | Objectives <br> *Coders will be able to...*| 
 |:--------|:---:|:---------|
@@ -38,7 +38,7 @@ Pacing Calendar (Year 1)
 * Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#foundations-course-resources) for additional resources and activities.
 
 ----
-##School Teacher Resources
+## School Teacher Resources
 
 * [Pacing Guide for in-class teachers](https://docs.google.com/document/d/1OMvWCohkD68hIjBKMevw99etwpVFE32XCBaGakV6eB8/edit?usp=sharing): To be used in ScriptEd course that are co-taught with a teacher from the school.
 * [CodeCademy Class Creator Guidelines](https://docs.google.com/document/d/1-6vh1QM2h0tZzTIl_183C_lt7ezv_pQ-QXsHQKkDAgQ/edit)  
