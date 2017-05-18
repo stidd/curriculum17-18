@@ -13,7 +13,7 @@
 | [**3: Text Transfromer**](units/5-JSobjects) | 3 sessions | Functions, Arrays, Iteration| Students will create objects and call information from them. |
 | [**4: Person Object**](units/5-JSobjects) | 3 sessions | Objects| Students will create objects and call information from them. |
 | [**5: PLaylist**](units/6-giphyAPI) | 3 sessions |  JSON | Students will create a webapp using the Giphy API|
-| [**Mid Year Challenge**](units/midYearChallenge) | 1 session | All| Students will take a coding challenge that will test all the skills they have been taught so far.|
+| [**Mid Year Challenge**](units/midYearChallenge) | 1 session | Review Hackerrank| Students will take a coding challenge that will test all the skills they have been taught so far.|
 | [**6:ScriptEd  API**](units/7-openWeatherAPI) | 3 sessions | API, JSON, Dev Tools| Students will create a webapp using the Open Weather API|
 | [**7:External API**](units/opt-FoursquareAPI)| 3 sessions  | API, JSON, Dev Tools| Students will create a webapp using the Foursquare API. This project uses the same skills as the two preceding it. Time can often be more effectively utilized moving to straight to the next project. |
 | [**Final Project**](units/9-entrepreneur) | 5 sessions | Project Management| Students will be creating their own product in small teams. |
