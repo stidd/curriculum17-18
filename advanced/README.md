@@ -8,14 +8,14 @@
 | Unit  | Overview | Objectives <br> *Coders will be able to...* |
 |-------|:-------:|------|
 | [**0: Intro and Review**](units/unit0)|2 Sessions | Routines and Procedures, Get to know you |
-| [**1: Portfolio**](units/unit1) | 3 Sessions | <li> create a website using HTML CSS and Bootstrap</li> <br><li>use github to fork, clone, and push changes to a repository</li> <br> <li>host a website on github pages</li> |
-| [**2: Rock, Paper, Scissors**](units/unit2) | 3 Sessions | <li> use jquery to </li> <br><li> use math library </li> <br> <li>condtionals </li> <br> <li>functions</li>|
-| [**3: Text Transfromer**](units/5-JSobjects) | 3 Sessions | <li> Functions </li> <br><li> Arrays </li> <br> <li>Iteration </li>|
+| [**1: Portfolio**](units/unit1) | 3 Sessions | <li> create a website using HTML CSS and Bootstrap</li> <li>use github to fork, clone, and push changes to a repository</li>  <li>host a website on github pages</li> |
+| [**2: Rock, Paper, Scissors**](units/unit2) | 3 Sessions | <li> use jquery to </li> <br><li> use math library </li> <br> <li>condtionals </li>  <li>functions</li>|
+| [**3: Text Transfromer**](units/5-JSobjects) | 3 Sessions | <li> Functions </li> <li> Arrays </li>  <li>Iteration </li>|
 | [**4: Person Object**](units/5-JSobjects) | 3 Sessions | <li> create objects and retrieve information from them. </li> |
 | [**5: PLaylist**](units/6-giphyAPI) | 3 Sessions |  <li> itterate throughan array of objects </li>|
 | [**Mid Year Challenge**](units/midYearChallenge) | 1 Session | take a coding challenge that will test all the skills they have been taught so far.|
-| [**6: ScriptEd  API**](units/7-openWeatherAPI) | 3 Sessions | <li> API </li> <br> <li> JSON </li> <br><li> Postman </li> <br> <li> Get, POST </li>|
-| [**7: External API**](units/opt-FoursquareAPI)| 3 Sessions | <li> API </li> <br> <li> Documention </li> |
+| [**6: ScriptEd  API**](units/7-openWeatherAPI) | 3 Sessions | <li> API </li>  <li> JSON </li> <li> Postman </li> <li> Get, POST </li>|
+| [**7: External API**](units/opt-FoursquareAPI)| 3 Sessions | <li> API </li> <li> Documention </li> |
 | [**Final Project**](units/9-entrepreneur) | 5 Sessions | <li> creating their own product in small teams. </li> |
 
 ----
