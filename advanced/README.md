@@ -5,7 +5,7 @@
 
 ## Scope and Sequence
 
-| Unit  | Overview | Topics/Skills |  Objectives <br> *Coders will be able to...* |
+| Unit  | Overview | Objectives <br> *Coders will be able to...* |
 |-------|:-------:|------|--------------|
 | [**0: Intro and Review**](units/unit0)|2 Sessions | Routines and Procedures, Get to know you |
 | [**1: Portfolio**](units/unit1) | 3 Sessions | <li> create a website using HTML CSS and Bootstrap</li> <br><li>use github to fork, clone, and push changes to a repository</li> <br> <li>host a website on github pages</li> |
