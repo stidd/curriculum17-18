@@ -24,11 +24,7 @@
 * Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced) for additional resources and activities.
 
 ----
-**Curriculum developed by**: Ali Hoefinger, Becky Segal, Matt Gerrior
-
-For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
-<br>
-
+**Curriculum developed by**: Ali Hoefinger, Becky Segal, Matthew Gerrior
 
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
