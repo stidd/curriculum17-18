@@ -7,7 +7,7 @@ This unit will ask the students to create a Rock, Paper, Scissors game. This par
 ## Important Links
 |||
 |:-------:|:-------:|:-------:|
-|[**Project Planning Doc**](https://drive.google.com/open?id=1dddAl5l-A1l0gA-oGxpcCFmlxRJzB7il39QEqmAm2Bs)|[**Starter Code**](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_startercode)|
+|[**Project Planning Doc**](https://drive.google.com/open?id=1dddAl5l-A1l0gA-oGxpcCFmlxRJzB7il39QEqmAm2Bs)|[**Starter Code**](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_startercode)
 |[**Solution Code**](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_solution)|
 
 ## Lessons
