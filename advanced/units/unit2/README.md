@@ -5,6 +5,7 @@
 This unit will ask the students to create a Rock, Paper, Scissors game. This particular project is completed in two stages. Students will first create a functioning game that operates in the console. Then they will create a fully functioning game that operates with clicking events.
 
 ## Important Links
+|||
 |:-------:|:-------:|:-------:|
 |[**Project Planning Doc**](https://drive.google.com/open?id=1dddAl5l-A1l0gA-oGxpcCFmlxRJzB7il39QEqmAm2Bs)|[**Starter Code**](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_startercode)|
 |[**Solution Code**](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_solution)|
