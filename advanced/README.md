@@ -7,7 +7,7 @@
 
 | Unit  | Overview | Skills | Description|
 |-------|:-------:|------|------|
-| [**Launch Day**](units/launch) | 1 Session |  | all advanced students will meet at a central location. At this event, students will learn about the expectations for the course, meet the larger Advanced Program student community, and be notified of their company placement.|
+| [**Launch Day**](units/launch) | 1 Session | Intro | all advanced students will meet at a central location. At this event, students will learn about the expectations for the course, meet the larger Advanced Program student community, and be notified of their company placement.|
 | [**0: Intro and Review**](units/unit0)|2 Sessions | HTML, CSS, Javascript Review | Routines and Procedures, Get to know you |
 | [**1: Portfolio**](units/unit1) | 3 Sessions | Wireframing, Boostrap, Git  | create a portfolio website using HTML CSS and Bootstrap |
 | [**2: Rock, Paper, Scissors**](units/unit2) | 3 Sessions | Jquery, Math, Arrays, Conditionals, Functions |create a Rock Paper Scissors Game website that takes in text and displays the winner to the screen|
