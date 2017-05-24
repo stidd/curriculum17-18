@@ -1,7 +1,7 @@
 # Unit 2: Rock Paper Scissors
 
 
-## Scope
+## Overview
 This unit will ask the students to create a Rock, Paper, Scissors game. This particular project is completed in two stages. Students will first create a functioning game that operates in the console. Then they will create a fully functioning game that operates with clicking events.
 
 ## Important Links
