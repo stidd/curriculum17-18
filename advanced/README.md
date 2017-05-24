@@ -16,7 +16,7 @@
 | [**5: Playlist**](units/6-giphyAPI) | 3 Sessions | JSON | create an app that takes an array of song obejects and dynamically displays them to the screen|
 | [**Mid Year Challenge**](units/midYearChallenge) | 1 Session | Review | take a coding challenge that will test all the skills they have been taught so far.|
 | [**6: ScriptEd  API**](units/7-openWeatherAPI) | 3 Sessions | API, GET, POST | create an app that uses the ScriptEd API to add and retrive data |
-| [**7: External API**](units/opt-FoursquareAPI)| 3 Sessions | API, GET, POST, | create an app that uses an external API to add and retrive data|
+| [**7: External API**](units/opt-FoursquareAPI)| 3 Sessions | API, GET, POST | create an app that uses an external API to add and retrive data|
 | [**Final Project**](units/9-entrepreneur) | 5 Sessions | Project Management | create their own product in small teams using a given API. |
 
 ----
