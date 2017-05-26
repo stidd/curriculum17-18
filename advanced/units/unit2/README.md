@@ -2,7 +2,7 @@
 
 
 ## Overview
-This unit will ask the students to create a Rock, Paper, Scissors game. This particular project is completed in two stages. Students will first create a functioning game that operates in the console. Then they will create a fully functioning game that operates with clicking events.
+In this project students will create a Rock, Paper, Scissors game! Using HTML, CSS, JQuery, and Javascrip students will create a fully functioning game that will take user input, genearate a computer choice and display the winner to the screen. students will have three class session to complete this poject.
 
 ## Important Links
 
