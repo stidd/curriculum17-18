@@ -6,7 +6,7 @@ This unit will ask the students to create a Rock, Paper, Scissors game. This par
 
 ## Important Links
 
-| [**Project Planning Doc**](https://drive.google.com/open?id=1dddAl5l-A1l0gA-oGxpcCFmlxRJzB7il39QEqmAm2Bs) |[**Starter Code**](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_startercode) | [**Solution Code**](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_solution)|[Wiki](https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-9-conditionals-variables--strings)|
+| [**Project Planning Doc**](https://drive.google.com/open?id=1dddAl5l-A1l0gA-oGxpcCFmlxRJzB7il39QEqmAm2Bs) |[**Starter Code**](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_startercode) | [**Solution Code**](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_solution)|[**Example Project**](https://ScriptEdcurriculum.github.io/advanced_rockpaperscissors_solution)|[Wiki](https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-9-conditionals-variables--strings)|
 |:-------:|:-------:|:-------:|:-------:|
 
 ## Sessions 
