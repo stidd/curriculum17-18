@@ -6,7 +6,7 @@ In this project students will create a Rock, Paper, Scissors game! Using HTML, C
 
 ## Important Links
 
-| Planning  | Example  |  Starter Code | Solition Code  |  Extra Resources |
+| Planning  | Example  |  Starter Code | Solution Code  |  Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
 | [**Planning Doc**](https://drive.google.com/open?id=1dddAl5l-A1l0gA-oGxpcCFmlxRJzB7il39QEqmAm2Bs) |[**Rock Paper Scissors**](https://ScriptEdcurriculum.github.io/advanced_rockpaperscissors_solution)| [**Rock Paper Scissors Starter Repo**](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_startercode) | [**Rock Paper Scissors Solution Repo**](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_solution)|[**Wiki**](https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-9-conditionals-variables--strings)|
 
