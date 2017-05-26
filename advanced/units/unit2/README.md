@@ -2,7 +2,7 @@
 
 
 ## Overview
-In this project students will create a Rock, Paper, Scissors game! Using HTML, CSS, JQuery, and Javascrip students will create a fully functioning game that will take user input, genearate a computer choice and display the winner to the screen. students will have three class session to complete this poject.
+In this project students will create a Rock, Paper, Scissors game! Using HTML, CSS, JQuery, and Javascrip students will create a fully functioning game that will take user input, genearate a computer choice and display the winner to the screen. Students will have three class session to complete this poject.
 
 ## Important Links
 
