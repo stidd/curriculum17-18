@@ -18,6 +18,7 @@
 | [**6: ScriptEd  API**](units/7-openWeatherAPI) | 3 Sessions | API, GET, POST | create an app that uses the ScriptEd API to add and retrive data |
 | [**7: External API**](units/opt-FoursquareAPI)| 3 Sessions | API, GET, POST | create an app that uses an external API to add and retrive data|
 | [**Final Project**](units/9-entrepreneur) | 5 Sessions | Project Management | create their own product in small teams using a given API. |
+| [**EOY Wrap Up**](units/midYearChallenge) | 2 Sessions | Hackerrank / Survey, Celebration | close out the year with EOY Hackerrank, Survey and Celebration|
 
 ----
 ## Wiki
