@@ -11,7 +11,7 @@ In this project students will create a Rock, Paper, Scissors game! Using HTML, C
 | [RPS Example](https://ScriptEdcurriculum.github.io/advanced_rockpaperscissors_solution) |[RPS Project Planning Doc](https://drive.google.com/open?id=1dddAl5l-A1l0gA-oGxpcCFmlxRJzB7il39QEqmAm2Bs)| [RPS Starter Repo](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_startercode) | [RPS Solution Repo](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_solution)|[Wiki](https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-9-conditionals-variables--strings)|
 
 ## Sessions 
-|Session Slides|*Coders will be able to ...*|By the end of the session...||
+|Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
 |:-------:|-------|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1ZktWplvZWdjnDF2dpS6sj14J1MHnG9P4AymCSCgWR-U/edit#slide=id.g1d0118cf2a_0_406)| <li> plan and wireframe a project</li>  <li> create HTML skeleton from a wireframe</li>| <li>[create the layout](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_solution/tree/step-01/index.html)</li>||
 |[**2**](https://docs.google.com/presentation/d/1ZktWplvZWdjnDF2dpS6sj14J1MHnG9P4AymCSCgWR-U/edit#slide=id.g1f587f6424_5_5)| <li> use jquery to manipulate the DOM</li> <li> create click handlers to take in user input</li><li>  generate random whole numbers</li> <li> create and call items from arrays.</li> | <li>[take in user input](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_solution/blob/step-03/script.js)</li> <li>[generate computer choice](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_solution/tree/step-04/script.js)</li>||
