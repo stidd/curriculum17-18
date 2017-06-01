@@ -11,12 +11,12 @@
 | [**0: Intro and Review**](units/unit0)|2  | HTML, CSS, Javascript Review | Routines and Procedures, Get to know you |
 | [**1: Portfolio**](units/unit1) | 3 | Wireframing, Boostrap, Git  | create a portfolio website using HTML CSS and Bootstrap |
 | [**2: Rock, Paper, Scissors**](units/unit2) | 3 | Jquery, Math, Arrays, Conditionals, Functions |In this project students will create a Rock, Paper, Scissors game! Using HTML, CSS, JQuery, and Javascript, students will create a fully functioning game that will take user input, genearate a computer choice and display the winner to the screen. Students will have three class sessions to complete this project.|
-| [**3: Text Transfromer**](units/5-JSobjects) | 3 | Array Methods, Iteration |create a text transforming website that takes in text and displays the translation to the screen|
-| [**4: Person Object**](units/5-JSobjects) | 3 | Objects | create objects and retrieve information from them. |
-| [**5: Playlist**](units/6-giphyAPI) | 3 | JSON | create an app that takes an array of song obejects and dynamically displays them to the screen|
+| [**3: Text Transfromer**](units/unit3) | 3 | Array Methods, Iteration |create a text transforming website that takes in text and displays the translation to the screen|
+| [**4: Person Object**](units/unit4) | 3 | Objects | create objects and retrieve information from them. |
+| [**5: Playlist**](units/unit5) | 3 | JSON | create an app that takes an array of song obejects and dynamically displays them to the screen|
 | [**Mid Year Challenge**](units/midYearChallenge) | 1 | Review | take a coding challenge that will test all the skills they have been taught so far.|
-| [**6: ScriptEd  API**](units/7-openWeatherAPI) | 3 | API, GET, POST | create an app that uses the ScriptEd API to add and retrive data |
-| [**7: External API**](units/opt-FoursquareAPI)| 3 | API, GET, POST | create an app that uses an external API to add and retrive data|
+| [**6: ScriptEd  API**](units/unit6) | 3 | API, GET, POST | create an app that uses the ScriptEd API to add and retrive data |
+| [**7: External API**](units/unit7)| 3 | API, GET, POST | create an app that uses an external API to add and retrive data|
 | [**Final Project**](units/9-entrepreneur) | 5 | Project Management | create their own product in small teams using a given API. |
 | [**EOY Wrap Up**](units/midYearChallenge) | 2 | Hackerrank / Survey, Celebration | close out the year with EOY Hackerrank, Survey and Celebration|
 
