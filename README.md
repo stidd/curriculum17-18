@@ -10,6 +10,6 @@
 
 <h4><a href="LINK HERE"> ScriptEd Coder Skills Rubric,</a> aligned to Common Core and CSTA K–12 Computer Science standards.</h4>
 <br>
-For more information about ScriptEd, please visit us at [scripted](https://www.scripted.org). 
+For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
 ScriptEd Curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. 
