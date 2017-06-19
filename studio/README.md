@@ -1,7 +1,6 @@
 # ScriptEd Curriculum 2017-2018
 
 ## Pacing Calendar
-![Imgur](http://i.imgur.com/8LibL1t.png)
 
 ## Scope and Sequence
 
