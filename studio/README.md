@@ -9,9 +9,9 @@
 |-------|:-------:|------|------|
 | [**Launch Day**](units/launch) | 1  | Intro | All studio students will meet at a central location. At this event, students will learn about the expectations for the course, meet the larger Studio Program student community, and be notified of their company placement.|
 | [**0:**](units/unit0)| 2 | | |
-| [**1: **](units/unit1) | 3 |   | 
-| [**2: **](units/unit2) | 3 | |
-| [**3: **](units/unit3) | 3 | ||
+| [**1:**](units/unit1) | 3 |   | 
+| [**2:**](units/unit2) | 3 | |
+| [**3:**](units/unit3) | 3 | ||
 | [**4: **](units/unit4) | 3 |  |  |
 | [**5: **](units/unit5) | 3 |  | |
 | [**Mid Year Challenge**](units/midYearChallenge) | 1 |  | |
