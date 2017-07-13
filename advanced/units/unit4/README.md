@@ -8,7 +8,7 @@ Students will create a person object that contains information about themselves.
 
 | Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| [Objects Example]() | [Objects Projects Planning Doc](https://drive.google.com/open?id=1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4) | [Objects Stater Code]() | [Objects Solution]() | [W3Schools]() |
+| [Objects Example]() | [Objects Projects Planning Doc](https://drive.google.com/open?id=1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4) | [Objects Stater Code]() | [Objects Solution]() | [W3School]() |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
