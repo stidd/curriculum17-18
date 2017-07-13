@@ -12,8 +12,8 @@ In this project students will create an application by which they create an arra
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
 |:-------:|-------|:-------|:-------|
-|[**1**]()| <li></li>  <li></li> | |Add Styling|
-|[**2**]()| <li></li>  <li></li> | |Work on Project|
-|[**3**]()| <li></li>  <li></li> | |Submit Project|
+|[**1**](https://docs.google.com/presentation/d/1r-jrg8aBtzApm5YOBokQ22VIBVAsLoqmr6PVx118h50/edit?ts=5963fa30#slide=id.g1e220fa94a_0_26)| <li></li>  <li></li> | |Add Styling|
+|[**2**](https://docs.google.com/presentation/d/1r-jrg8aBtzApm5YOBokQ22VIBVAsLoqmr6PVx118h50/edit?ts=5963fa30#slide=id.g1f587f6424_5_5)| <li></li>  <li></li> | |Work on Project|
+|[**3**](https://docs.google.com/presentation/d/1r-jrg8aBtzApm5YOBokQ22VIBVAsLoqmr6PVx118h50/edit?ts=5963fa30#slide=id.g1e220fa94a_0_4)| <li></li>  <li></li> | |Submit Project|
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback!</a></h3>
