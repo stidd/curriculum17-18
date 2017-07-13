@@ -7,7 +7,7 @@ In this project students will create an application by which they create an arra
 
 | Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| [Project Example](https://ScriptEdcurriculum.github.io//advanced_playlist_solution)| [Project Planning Doc ???](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M) | [Project Starter Repo](https://github.com/ScriptEdcurriculum/advanced_playlist_startercode) | [Project Solution Code](https://github.com/ScriptEdcurriculum/advanced_playlist_solution) | [Project Resource]() |
+| [JSON Example](https://ScriptEdcurriculum.github.io//advanced_playlist_solution)| [JSON Planning Doc](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M) | [JSON Starter Repo](https://github.com/ScriptEdcurriculum/advanced_playlist_startercode) | [JSON Solution Code](https://github.com/ScriptEdcurriculum/advanced_playlist_solution) | [JSON Resource]() |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
