@@ -7,11 +7,7 @@ In this unit students will create a professional portfoilio. Students will use b
 
 | Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-|[Porfolio Example](https://scriptedcurriculum.github.io/advanced_portfolio_solution/)
-|[Portfolio Planning](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A) 
-|Portfolio Starter Code (https://github.com/ScriptEdcurriculum/advanced_portfolio_startercode) 
-|Portfolio Soulution Code (https://github.com/ScriptEdcurriculum/advanced_portfolio_solution) 
-|Extra Resources ()|
+|[Porfolio Example](https://scriptedcurriculum.github.io/advanced_portfolio_solution/)|[Portfolio Planning](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A) |Portfolio Starter Code (https://github.com/ScriptEdcurriculum/advanced_portfolio_startercode) |Portfolio Soulution Code (https://github.com/ScriptEdcurriculum/advanced_portfolio_solution) |Extra Resources ()|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
