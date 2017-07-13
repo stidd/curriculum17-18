@@ -7,7 +7,7 @@
 
 | Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| | | | ||
+|[RPS Example](https://ScriptEdcurriculum.github.io/advanced_rockpaperscissors_solution)| | | ||
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
