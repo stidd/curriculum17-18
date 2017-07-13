@@ -2,12 +2,13 @@
 
 
 ## Overview
+Students will create a person object that contains information about themselves. Students will navigate the object and pull information to display to the screen.  Students will need to navigate nested objects 
 
 ## Important Links
 
 | Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-|[RPS Example](https://ScriptEdcurriculum.github.io/advanced_rockpaperscissors_solution)| | | ||
+|| | | ||
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
