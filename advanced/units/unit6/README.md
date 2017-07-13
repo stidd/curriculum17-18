@@ -13,8 +13,8 @@ Students will be introduced to APIS. They will create and application by which t
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
 |:-------:|-------|:-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_26)|  |<li> Anatomy of an API Request</li>|[filler(1)]|Add Styling|
-|[**2**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1f587f6424_5_5)|  |<li>Creating and AJAX GET request</li> <li>Handling a ajax reponse</li>|[filler(2)]|Work on Project|
-|[**3**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_4)|  |<li>Dynamically displaying data</li> |[filler(3)]|Submit Project|
+|[**1**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_26)|  <li> Anatomy of an API Request</li>|[filler(1)]|Add Styling|
+[**2**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1f587f6424_5_5)|  |<li>Creating and AJAX GET request</li> <li>Handling a ajax reponse</li>|[filler(2)]|Work on Project|
+[**3**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_4)|  |<li>Dynamically displaying data</li> |[filler(3)]|Submit Project|
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback!</a></h3>
