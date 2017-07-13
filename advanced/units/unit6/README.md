@@ -8,12 +8,7 @@ Students will be introduced to APIS. They will create and application by which t
 
 | Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-|[API example](https://scriptedcurriculum.github.io/advanced_giphy_solution/)
-|[API Project Planning Doc](https://docs.google.com/document/d/1LJcfvOTUZHwjdjZMU-94r5tXVEYmhJjb6ExYJf0zSQ8/edit)
-|[API Starter Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_startercode)
-|[API solution Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_solution)
-|[Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced)
-|
+|[API example](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[API Project Planning Doc](https://docs.google.com/document/d/1LJcfvOTUZHwjdjZMU-94r5tXVEYmhJjb6ExYJf0zSQ8/edit)|[API Starter Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_startercode)|[API solution Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_solution)|[Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced)|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
