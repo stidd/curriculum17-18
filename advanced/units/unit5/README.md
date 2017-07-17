@@ -1,4 +1,4 @@
-# Unit 5: JSON 
+# Unit 5: Playlist
 
 ## Overview: 
 In this project students will create an application by which they create an array of songs objects in the form of a JSON response. They will iterate over the array and add a div containing song infrmation to the screen, as well as dynamically adding classes to elements as they are created.
@@ -7,7 +7,7 @@ In this project students will create an application by which they create an arra
 
 | Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| [JSON Example](https://ScriptEdcurriculum.github.io//advanced_playlist_solution)| [JSON Planning Doc](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M) | [JSON Starter Repo](https://github.com/ScriptEdcurriculum/advanced_playlist_startercode) | [JSON Solution Code](https://github.com/ScriptEdcurriculum/advanced_playlist_solution) | [JSON Resource]() |
+| [Playlist Example](https://ScriptEdcurriculum.github.io//advanced_playlist_solution)| [Playlist Planning Doc](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M) | [Playlist Starter Repo](https://github.com/ScriptEdcurriculum/advanced_playlist_startercode) | [Playlist Solution Code](https://github.com/ScriptEdcurriculum/advanced_playlist_solution) | [Playlist Resource]() |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
