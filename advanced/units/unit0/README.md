@@ -2,11 +2,6 @@
 
 ## Overview
 Routines and Procedures, Get to know you, Review
-## Important Links
-
-| Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
-|:-------:|:-------:|:-------:|:-------:|:-------:|
-||||||
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
