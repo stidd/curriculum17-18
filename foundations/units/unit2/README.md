@@ -1,4 +1,4 @@
-# CSS
+# Unit 2: CSS
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
 |:-------:|:-------:|:-------|:-------|
