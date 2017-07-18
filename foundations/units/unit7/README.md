@@ -1,4 +1,8 @@
-# Unit 7: Unit Title
+# Unit 7: Variables, Value Types, Operators, input.val (jQuery)
+
+
+
+
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
 |:-------:|:-------:|:-------|:-------|
