@@ -1,4 +1,7 @@
-# Unit 8: Unit Title
+# Unit 8: JavaScript Functions Part 2
+
+
+
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
 |:-------:|:-------:|:-------|:-------|
