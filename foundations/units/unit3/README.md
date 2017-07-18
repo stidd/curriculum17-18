@@ -1,4 +1,5 @@
-# Unit 3: Unit Title
+# Unit 3: HTML Attributes
+
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
 |:-------:|:-------:|:-------|:-------|
