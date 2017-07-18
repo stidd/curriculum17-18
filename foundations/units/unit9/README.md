@@ -8,7 +8,7 @@
 |[**4**]()|45|<li> Objective 1 Goes Here</li> <li> Objective 2 goes here </li> |[Resource 1]()<br>[Resource 2]()|
 |[**Project 1**]()|45x2|Project Description|[Resource 1]()<br>[Resource 2]()|
 |[**Project 2**]()|45x3|Project Description|[Resource 1]()<br>[Resource 2]()|
-|**Unit Challenge**|10|<a  href="">||
+|**Unit Challenge**||<a  href="">||
 |**Wiki**||<a href=""></a>||
 
 
