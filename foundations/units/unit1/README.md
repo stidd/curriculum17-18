@@ -8,8 +8,7 @@
 |[**4**]()|45|<li> Coders will be able to create HTML elements with attributes to include links and images in their pages. </li>|[Resource 1]()<br>[Resource 2]()|
 |[**Project 1**]()|45x2|Project Description|[Resource 1]()<br>[Resource 2]()|
 |[**Project 2**]()|45x3|Project Description|[Resource 1]()<br>[Resource 2]()|
-|**Unit Challenge**||<a  href="">||
-|**Wiki**||<a href=""></a>||
+
 
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Submit Your Feedback!</a></h3>
