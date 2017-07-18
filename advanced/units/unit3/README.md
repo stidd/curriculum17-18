@@ -7,8 +7,7 @@
 
 | Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-|[Translator Example](https://scriptedcurriculum.github.io//piglatinizer_solution/)|
-[Translator Project Planning Doc](https://docs.google.com/document/d/1gINwUa2YyBhAvlKkdAlfm9gJxnnkbiTPE1QV_O_PmJc/edit)|
+|[Translator Example](https://scriptedcurriculum.github.io//piglatinizer_solution/)|[Translator Project Planning Doc](https://docs.google.com/document/d/1gINwUa2YyBhAvlKkdAlfm9gJxnnkbiTPE1QV_O_PmJc/edit)|
 | ||
 
 ## Sessions 
