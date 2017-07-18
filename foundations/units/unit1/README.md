@@ -1,5 +1,4 @@
-# Unit 1: Unit Title
-
+# Unit 1: HTML Intro
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**]()|45| <li>Coders will be able to use correct syntax to create an an opening and a closing HTML tag for simple HTML elements.</li>  |[Resource 1]()<br>[Resource 2]()|
