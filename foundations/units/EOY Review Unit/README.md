@@ -3,7 +3,7 @@
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**]()|45| <li>Jeopardy/Review Acvitvity</li>  |[Resource 1]()<br>[Resource 2]()|
-|[**2**]()|45|<li>EOY HackerRank</li> |[Resource 1]()<br>[Resource 2]()|
+|[**2**]()|45|<li>EOY HackerRank </li> |[Resource 1]()<br>[Resource 2]()|
 
 
 
