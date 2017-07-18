@@ -1,4 +1,8 @@
-# Unit 6: Unit Title
+# Unit 6: Intro to JavaScript Functions
+
+
+
+
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
 |:-------:|:-------:|:-------|:-------|
