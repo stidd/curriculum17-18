@@ -6,8 +6,7 @@
 |[**2**]()|45|<li>Coders will be able to use correct syntax to create simple HTML elements.</li> |[Resource 1]()<br>[Resource 2]()|
 |[**3**]()|45|<li> Coders will be able to nest HTML elements including ordered and unordered lists.</li> |[Resource 1]()<br>[Resource 2]()|
 |[**4**]()|45|<li> Coders will be able to create HTML elements with attributes to include links and images in their pages. </li>|[Resource 1]()<br>[Resource 2]()|
-|[**Project 1**]()|45x2|Project Description|[Resource 1]()<br>[Resource 2]()|
-|[**Project 2**]()|45x3|Project Description|[Resource 1]()<br>[Resource 2]()|
+
 
 
 
