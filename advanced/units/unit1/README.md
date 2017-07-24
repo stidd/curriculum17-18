@@ -12,8 +12,7 @@ In this unit students will create a professional portfoilio. Students will use b
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
 |:-------:|-------|:-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1BFQ0SddrIQbAWv8v2pfnViP2D1fNlmFQxhTKV4Lc10E/edit#slide=id.g1e220fa94a_0_26)|<li> Project Planning</li>  <li>Wireframing  Github forking and cloning / git add commit push</li> <li>linking external libraries</li>
-  | |Add Styling|
+|[**1**](https://docs.google.com/presentation/d/1BFQ0SddrIQbAWv8v2pfnViP2D1fNlmFQxhTKV4Lc10E/edit#slide=id.g1e220fa94a_0_26)|<li> Project Planning</li>  <li>Wireframing  Github forking and cloning / git add commit push</li> <li>linking external libraries</li> | |Add Styling|
 |[**2**](https://docs.google.com/presentation/d/1BFQ0SddrIQbAWv8v2pfnViP2D1fNlmFQxhTKV4Lc10E/edit#slide=id.g1f587f6424_5_5)| <li>Bootstrap Nav</li> <li> Bootstrap Columns</li> <li> Bootstrap Conatiners</li>  | |Work on Project|
 |[**3**](https://docs.google.com/presentation/d/1BFQ0SddrIQbAWv8v2pfnViP2D1fNlmFQxhTKV4Lc10E/edit#slide=id.g1e220fa94a_0_4)|<li> Bootstrap Components</li> <li>Github pages</li>  | |Submit Project|
 
