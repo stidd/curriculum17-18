@@ -17,7 +17,7 @@
 | [**Mid Year Challenge**](units/midYearChallenge) | 1 | Review | take a coding challenge that will test all the skills they have been taught so far.|
 | [**6: ScriptEd  API**](units/unit6) | 3 | API, GET, POST | Students will create and application by which they use a premade API and display it to the results scrern. They will iterate over the array and add an div containg student infrmation to the screen. Dynamically add classes to elements they are created.  |
 | [**7: External API**](units/unit7)| 3 | API, GET, POST | Students will create and application by which they input a location and food item and return the nearest place. Students will read documentation. They will iterate over the array and add an div containg business infrmation to the screen. Dynamically add classes to elements s they are created.|
-| [**Final Project**](units/9-entrepreneur) | 5 | Project Management | In this session, students will work in pairs to create a project for a client. This project is intended to highlight some very important aspects of goal setting and project management.|
+| [**8: Client Project**](units/unit8) | 5 | Project Management | In this session, students will work in pairs to create a project for a client. This project is intended to highlight some very important aspects of goal setting and project management.|
 | [**EOY Wrap Up**](units/midYearChallenge) | 2 | Hackerrank / Survey, Celebration | close out the year with EOY Hackerrank, Survey and Celebration|
 
 ----
