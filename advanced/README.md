@@ -8,7 +8,7 @@
 | Unit  | Sessions | Skills | Overview|
 |-------|:-------:|------|------|
 | [**Launch Day**](units/launch) | 1  | Intro | All advanced students will meet at a central location. At this event, students will learn about the expectations for the course, meet the larger Advanced Program student community, and be notified of their company placement.|
-| [**0: Intro and Review**](units/unit0)| 2 | HTML, CSS, Javascript Review | Routines and Procedures, Get to know you |
+| [**0: Intro and Review**](units/unit0)| 3 | HTML, CSS, Javascript Review | Routines and Procedures, Get to know you |
 | [**1: Portfolio**](units/unit1) | 3 | Wireframing, Boostrap, Git  | In this unit students will create a professional portfoilio. Students will use bootstrap and to create a reponsive page. Students will use this portfolio as place to upload future projects after the are completed. |
 | [**2: Rock, Paper, Scissors**](units/unit2) | 3 | Jquery, Math, Arrays, Conditionals, Functions |In this project students will create a Rock, Paper, Scissors game! Using HTML, CSS, JQuery, and Javascript, students will create a fully functioning game that will take user input, genearate a computer choice and display the winner to the screen. Students will have three class sessions to complete this project.|
 | [**3: Text Transfromer**](units/unit3) | 3 | Array Methods, Iteration |Student will create a pig latin translator. This will require students to create and input box and a button with click handler. If the text box is empty will return please enter in text. |
