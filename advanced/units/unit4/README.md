@@ -2,13 +2,13 @@
 
 
 ## Overview
-Students will create a person object that contains information about themselves. Students will navigate the object and pull information to display to the screen.  
+Students will update thier portfolio about me page with create an object that contains information about themselves. Students will navigate the object and pull information to display to the screen. 
 
 ## Important Links
 
-| Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
+| Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| [Objects Example]() | [Objects Projects Planning Doc](https://drive.google.com/open?id=1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4) | [Objects Stater Code]() | [Objects Solution]() | [W3School]() |
+| [Example]() | [Projects Planning Doc](https://drive.google.com/open?id=1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4) | [ Stater Code]() | [Objects Solution]() | [Rubric](https://drive.google.com/open?id=1_K1rMWlViYBfdbeZotXI9kG-wtpAS5syDIphwRVQlTw) | [Wiki]() |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
