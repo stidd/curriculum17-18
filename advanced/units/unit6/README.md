@@ -9,7 +9,7 @@ Students will be introduced to APIS. They will create and application by which t
 
 | Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|[Example](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[Project Planning Doc](https://docs.google.com/document/d/1LJcfvOTUZHwjdjZMU-94r5tXVEYmhJjb6ExYJf0zSQ8/edit)|[Starter Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_startercode)|[Solution Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_solution) | [Rubric](https://drive.google.com/open?id=1NhN9GCw6g9ySGZYSW3yMyM0Ld-Hjpo0fNJJgY7u1rvo)|[Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced)|
+|[Example](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[Project Planning Doc](https://docs.google.com/document/d/1LJcfvOTUZHwjdjZMU-94r5tXVEYmhJjb6ExYJf0zSQ8/edit)|[Starter Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_startercode)|[Solution Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_solution) | [Rubric](https://drive.google.com/open?id=1NhN9GCw6g9ySGZYSW3yMyM0Ld-Hjpo0fNJJgY7u1rvo)|[Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-6-giphy)|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
