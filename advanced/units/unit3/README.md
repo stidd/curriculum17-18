@@ -5,8 +5,8 @@
 Student will create a pig latin translator. This will require students to create and input box and a button with click handler. The program will read text and dislpay the pig latinized result to the screen.
 
 ## Important Links
-| Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
-|:-------:|:-------:|:-------:|:-------:|:-------:|
+| Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |[Example](https://scriptedcurriculum.github.io//piglatinizer_solution/)|[Project Planning Doc](https://docs.google.com/document/d/1gINwUa2YyBhAvlKkdAlfm9gJxnnkbiTPE1QV_O_PmJc/edit)|[Starter code]()|[Solution Code]()|[Rubric](https://drive.google.com/open?id=13vHr_fpuyip958JHw2eYt8P7UQsGz9-crCHPZKyNVf4)|[Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced#unit-3-pig-latinizer)|
 
 ## Sessions 
