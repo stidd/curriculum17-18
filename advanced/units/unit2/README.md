@@ -6,9 +6,9 @@ In this project students will create a Rock, Paper, Scissors game! Using HTML, C
 
 ## Important Links
 
-| Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
-|:-------:|:-------:|:-------:|:-------:|:-------:|
-| [RPS Example](https://ScriptEdcurriculum.github.io/advanced_rockpaperscissors_solution) |[RPS Project Planning Doc](https://drive.google.com/open?id=1dddAl5l-A1l0gA-oGxpcCFmlxRJzB7il39QEqmAm2Bs)| [RPS Starter Repo](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_startercode) | [RPS Solution Repo](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_solution)|[Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced)|
+| Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| [RPS Example](https://ScriptEdcurriculum.github.io/advanced_rockpaperscissors_solution) |[RPS Project Planning Doc](https://drive.google.com/open?id=1dddAl5l-A1l0gA-oGxpcCFmlxRJzB7il39QEqmAm2Bs)| [RPS Starter Repo](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_startercode) | [RPS Solution Repo](https://github.com/ScriptEdcurriculum/advanced_rockpaperscissors_solution)| [Rubric](https://drive.google.com/open?id=1a_ycLDc8Tt4heWRcZsPDpKqovcqkGZ1DX6MpOr1vhB0) |[Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced#unit-2-rps)|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
