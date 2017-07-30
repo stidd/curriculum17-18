@@ -5,9 +5,9 @@
 In this unit students will create a professional portfoilio. Students will use bootstrap and to create a reponsive page. Students will use this portfolio as place to upload future projects after the are completed. 
 ## Important Links
 
-| Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
-|:-------:|:-------:|:-------:|:-------:|:-------:|
-|[Example](https://scriptedcurriculum.github.io/advanced_portfolio_solution/)|[Student Planning](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A) |[Starter Code](https://github.com/ScriptEdcurriculum/advanced_portfolio_startercode) |[Solution Code](https://github.com/ScriptEdcurriculum/advanced_portfolio_solution) |[Extra Resources]()|
+| Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|[Example](https://scriptedcurriculum.github.io/advanced_portfolio_solution/)|[Student Planning](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A) |[Starter Code](https://github.com/ScriptEdcurriculum/advanced_portfolio_startercode) |[Solution Code](https://github.com/ScriptEdcurriculum/advanced_portfolio_solution) | [Rubric](https://drive.google.com/open?id=1OcgOVmsKKEHgFG6v5Z0eJaVY23k6qdUKJoy5Y3WXS4w) | [Extra Resources]()|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
