@@ -1,7 +1,7 @@
 # Unit 5: Playlist
 
 ## Overview: 
-In this project students will create an application by which they create an array of songs objects in the form of a JSON response. They will iterate over the array and add a div containing song infrmation to the screen, as well as dynamically adding classes to elements as they are created.
+Students will create an application by which they create an array of songs objects in the form of a JSON response. They will iterate over the array and add an div containg song infrmation to the screen.
 
 ## Important Links
 
