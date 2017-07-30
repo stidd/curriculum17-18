@@ -4,9 +4,9 @@
 
 ## Important Links
 
-| Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
-|:-------:|:-------:|:-------:|:-------:|:-------:|
-| |[API Project Plainning Doc](https://docs.google.com/document/d/1djJGD16zKw0DsNOKir0yP6wt-MW751isL-7UDK7ZSRc/edit) | | | |
+| Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| |[Project Plainning Doc](https://docs.google.com/document/d/1djJGD16zKw0DsNOKir0yP6wt-MW751isL-7UDK7ZSRc/edit) | | [Rubric](https://drive.google.com/open?id=1sE57raysW2J8LFMpNi86e1bfZ8Q9DE0OmLgGnReL-y4) | [Wiki]() |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
