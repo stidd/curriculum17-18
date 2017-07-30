@@ -5,9 +5,9 @@ In this project students will create an application by which they create an arra
 
 ## Important Links
 
-| Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
-|:-------:|:-------:|:-------:|:-------:|:-------:|
-| [Playlist Example](https://ScriptEdcurriculum.github.io//advanced_playlist_solution)| [Playlist Planning Doc](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M) | [Playlist Starter Repo](https://github.com/ScriptEdcurriculum/advanced_playlist_startercode) | [Playlist Solution Code](https://github.com/ScriptEdcurriculum/advanced_playlist_solution) | [Playlist Resource]() |
+| Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| [Example](https://ScriptEdcurriculum.github.io//advanced_playlist_solution)| [Planning Doc](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M) | [Starter Repo](https://github.com/ScriptEdcurriculum/advanced_playlist_startercode) | [Solution Code](https://github.com/ScriptEdcurriculum/advanced_playlist_solution) | [Rubric](https://drive.google.com/open?id=1sQxfNhRwnK7k08VMeSFkncODpbuCLDdk9Actey5YDVo) | [Extra Resources](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-5-playlist) |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
