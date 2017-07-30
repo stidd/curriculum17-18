@@ -1,14 +1,15 @@
-# Unit 6: API's
+# Unit 6: Giphy API
 
 
 ## Overview
-Students will be introduced to APIS. They will create and application by which they use the Giphy API and display it to the results scrern. They will iterate over the array and add an div containg student infrmation to the screen. Dynamically add classes to elements s they are created. 
+Students will be introduced to APIS. They will create and application by which they use the Giphy API and display it to the results scrern. They will iterate over the array and add an div containg student infrmation to the screen.
+
 
 ## Important Links
 
-| Example | Student Planning |  Starter Code | Solution Code  |  Extra Resources |
-|:-------:|:-------:|:-------:|:-------:|:-------:|
-|[API example](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[API Project Planning Doc](https://docs.google.com/document/d/1LJcfvOTUZHwjdjZMU-94r5tXVEYmhJjb6ExYJf0zSQ8/edit)|[API Starter Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_startercode)|[API solution Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_solution)|[Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced)|
+| Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|[API example](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[API Project Planning Doc](https://docs.google.com/document/d/1LJcfvOTUZHwjdjZMU-94r5tXVEYmhJjb6ExYJf0zSQ8/edit)|[API Starter Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_startercode)|[API solution Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_solution) | [Rubric](https://drive.google.com/open?id=1NhN9GCw6g9ySGZYSW3yMyM0Ld-Hjpo0fNJJgY7u1rvo)|[Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced)|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
