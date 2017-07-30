@@ -7,7 +7,7 @@ Students will update thier portfolio about me page with create an object that co
 ## Important Links
 
 | Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
-|:-------:|:-------:|:-------:|:-------:|:-------:|
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | [Example]() | [Projects Planning Doc](https://drive.google.com/open?id=1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4) | [ Stater Code]() | [Objects Solution]() | [Rubric](https://drive.google.com/open?id=1_K1rMWlViYBfdbeZotXI9kG-wtpAS5syDIphwRVQlTw) | [Wiki]() |
 
 ## Sessions 
