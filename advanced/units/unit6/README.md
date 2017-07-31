@@ -14,8 +14,8 @@ Students will be introduced to APIS. They will create and application by which t
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_26)|  <li> 1.1 plan and wireframe a project and create HTML </li> <li> 1.2 Identify an API and navigate data in a JSON response </li>|Add Styling|
-|[**2**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1f587f6424_5_5)| <li> 2.1 Implement a keypress function </li> <li> 2.2 Create and AJAX, Get Request </li> |Work on Project|
-|[**3**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_4)| <li> 3.1 handle response object from AJAX success function </li> <li> 3.2 dynamically display items from JSON </li> |Submit Project|
+|[**1**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_26)|  <li> [1.1](https://github.com/ScriptEdcurriculum/advanced_giphy_solution/tree/1.1) plan and wireframe a project and create HTML </li> <li> [1.2](https://github.com/ScriptEdcurriculum/advanced_giphy_solution/tree/1.2) Identify an API and navigate data in a JSON response </li>|Add Styling|
+|[**2**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1f587f6424_5_5)| <li> [2.1](https://github.com/ScriptEdcurriculum/advanced_giphy_solution/tree/2.1) Implement a keypress function </li> <li> [2.2](https://github.com/ScriptEdcurriculum/advanced_giphy_solution/tree/2.2) Create and AJAX, Get Request </li> |Work on Project|
+|[**3**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_4)| <li> [3.1](https://github.com/ScriptEdcurriculum/advanced_giphy_solution/tree/3.1) handle response object from AJAX success function </li> <li> [3.2](https://github.com/ScriptEdcurriculum/advanced_giphy_solution/tree/3.2) dynamically display items from JSON </li> |Submit Project|
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback!</a></h3>
