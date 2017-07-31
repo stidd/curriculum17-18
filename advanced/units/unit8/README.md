@@ -14,7 +14,7 @@ Students will work in pairs to create a project for a client. This project is in
 |:-------:|-------|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1Uacs7Uwq8D-E1N8nE9ku0vvpR67L28LxJsOaH7rJ5sE/edit#slide=id.g24b312dfe7_0_545)|  | | |
 |[**2**](https://docs.google.com/presentation/d/1Uacs7Uwq8D-E1N8nE9ku0vvpR67L28LxJsOaH7rJ5sE/edit#slide=id.g24b312dfe7_0_592)|  | | |
-|[**3**](https://docs.google.com/presentation/d/1Uacs7Uwq8D-E1N8nE9ku0vvpR67L28LxJsOaH7rJ5sE/edit#slide=id.g24b312dfe7_0_639)|  | | |
+|[**3**](https://docs.google.com/presentation/d/1Uacs7Uwq8D-E1N8nE9ku0vvpR67L28LxJsOaH7rJ5sE/edit#slide=id.g24b312dfe7_0_686)|  | | |
 |[**4**](https://docs.google.com/presentation/d/1Uacs7Uwq8D-E1N8nE9ku0vvpR67L28LxJsOaH7rJ5sE/edit#slide=id.g24b312dfe7_0_806)|  | | |
 |[**5**](https://docs.google.com/presentation/d/1Uacs7Uwq8D-E1N8nE9ku0vvpR67L28LxJsOaH7rJ5sE/edit#slide=id.g24b312dfe7_0_733)|  | | |
 
