@@ -12,10 +12,10 @@ Students will be introduced to APIS. They will create and application by which t
 |[Example](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[Project Planning Doc](https://docs.google.com/document/d/1LJcfvOTUZHwjdjZMU-94r5tXVEYmhJjb6ExYJf0zSQ8/edit)|[Starter Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_startercode)|[Solution Repo](https://github.com/ScriptEdcurriculum/advanced_giphy_solution) | [Rubric](https://drive.google.com/open?id=1NhN9GCw6g9ySGZYSW3yMyM0Ld-Hjpo0fNJJgY7u1rvo)|[Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-6-giphy)|
 
 ## Sessions 
-|Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
-|:-------:|-------|:-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_26)|  <li> Anatomy of an API Request</li>||Add Styling|
-|[**2**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1f587f6424_5_5)|<li>Creating and AJAX GET request</li> <li>Handling a ajax reponse</li>||Work on Project|
-|[**3**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_4)|<li>Dynamically displaying data</li> ||Submit Project|
+|Session Slides|*Coders will be able to ...*|Homework|
+|:-------:|-------|:-------|
+|[**1**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_26)|  <li> 1.1 plan and wireframe a project and create HTML </li> <li> 1.2 Identify an API and navigate data in a JSON response </li>|Add Styling|
+|[**2**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1f587f6424_5_5)| <li> 2.1 Implement a keypress function </li> <li> 2.2 Create and AJAX, Get Request </li> |Work on Project|
+|[**3**](https://docs.google.com/presentation/d/1G3Df8eYHATleI4NXpeascOawCNM8On4Tm_DWyo2ZxSw/edit#slide=id.g1e220fa94a_0_4)| <li> 3.1 handle response object from AJAX success function </li> <li> 3.2 dynamically display items from JSON </li> |Submit Project|
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback!</a></h3>
