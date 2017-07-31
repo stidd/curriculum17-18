@@ -12,11 +12,11 @@ Students will work in pairs to create a project for a client. This project is in
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|By the end of the session...|Homework|
 |:-------:|-------|:-------|:-------|
-|[**1**]()|  | | |
-|[**2**]()|  | | |
-|[**3**]()|  | | |
-|[**4**]()|  | | |
-|[**5**]()|  | | |
+|[**1**](https://docs.google.com/presentation/d/1Uacs7Uwq8D-E1N8nE9ku0vvpR67L28LxJsOaH7rJ5sE/edit#slide=id.g24b312dfe7_0_545)|  | | |
+|[**2**](https://docs.google.com/presentation/d/1Uacs7Uwq8D-E1N8nE9ku0vvpR67L28LxJsOaH7rJ5sE/edit#slide=id.g24b312dfe7_0_592)|  | | |
+|[**3**](https://docs.google.com/presentation/d/1Uacs7Uwq8D-E1N8nE9ku0vvpR67L28LxJsOaH7rJ5sE/edit#slide=id.g24b312dfe7_0_639)|  | | |
+|[**4**](https://docs.google.com/presentation/d/1Uacs7Uwq8D-E1N8nE9ku0vvpR67L28LxJsOaH7rJ5sE/edit#slide=id.g24b312dfe7_0_806)|  | | |
+|[**5**](https://docs.google.com/presentation/d/1Uacs7Uwq8D-E1N8nE9ku0vvpR67L28LxJsOaH7rJ5sE/edit#slide=id.g24b312dfe7_0_733)|  | | |
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback!</a></h3>
 
