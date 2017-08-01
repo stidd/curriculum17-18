@@ -12,7 +12,7 @@ Students will update thier portfolio about me page with create an object that co
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
-|:-------:|-------|:-------|:-------|
+|:-------:|-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1e220fa94a_0_26)|<li> 1.1 stucrure information as data </li> <li>1.2 Use JavaScript to create a simple object</li> |Add Styling|
 |[**2**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1f587f6424_5_5)|<li> 2.1 create a data representation using nested objects </li> <li>2.2 learn to access properties of an object using dot and bracket notation </li> |Work on Project|
 |[**3**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1e220fa94a_0_4)|<li> 3.1 add new properties, modify, and delete properties an object</li> <li> 3.2 Update existing properties of an object </li> |Submit Project|
