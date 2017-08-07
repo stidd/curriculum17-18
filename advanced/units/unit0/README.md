@@ -3,6 +3,11 @@
 ## Overview
 Routines and Procedures, Get to know you, Review
 
+## Important Links
+|  Starter Code | Solution Code  |  | Extra Resources |
+|:-------:|:-------:|:-------:|:-------:|
+|         |         |         |         |
+
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
