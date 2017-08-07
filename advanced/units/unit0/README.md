@@ -6,7 +6,7 @@ Routines and Procedures, Get to know you, Review
 ## Important Links
 |  Starter Code | Solution Code  |  | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|
-|         |         |         |         |
+|[Scavenger Hunt](https://github.com/ScriptEdcurriculum)|[Scavenger Hunt](https://github.com/ScriptEdcurriculum|         |         |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
