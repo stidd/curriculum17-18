@@ -15,9 +15,9 @@ Pacing Calendar (Year 1)
 
 | Unit | Overview | Objectives <br> *Coders will be able to...*| 
 |:--------|:---:|:---------|
-| [**0: Welcome and Routines**](units/unit0) | 2 lessons <br> 1 project | <ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**1:  HTML Intro**](units/unit1) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
-| [**2: CSS Intro**](units/unit2) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
+| [**0: Welcome and Routines**](units/unit0) | 3 lessons| <ul> <li> Identify two things they are excited to learn in ScriptEd and be able to name their classmates and teachers.</li> <li> Navigate the daily session document. </li> <li> Navigate the popcode coding enviornment and create a Github account to share their work </li> </ul>|
+| [**1:  HTML Intro**](units/unit1) | 4 lessons <br>|<ul> <li> Use correct syntax to create an an opening and a closing HTML tag for simple HTML elements.</li> <li> Use correct syntax to create simple HTML elements. </li> <li> Nest HTML elements including ordered and unordered lists. </li></li> <li> Create HTML elements with attributes to include links and images in their pages. </li></ul>|
+| [**2: CSS Intro**](units/unit2) | 2 lessons <br> 1 project  |<ul> <li> Select an HTML element and change its style using CSS.</li> <li> Style a page using CSS properties and values. </li> <li> Describe the difference between head and body by linking Google Fonts to style their page </li> </ul>|
 | [**3: HTML Attributes.**](units/unit3) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul> |
 | [**4: Flexbox and Wireframing**](units/unit4) | 2 lessons <br> 1 project |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
 | [**5: jQuery**](units/unit5) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li><li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
