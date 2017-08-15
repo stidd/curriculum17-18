@@ -4,7 +4,7 @@
 |----|----|
 |[Foundations Course](foundations)| The focus of this course is **Exposure**. In this course, students are introduced to HTML, CSS and JavaScript.  By the end of the course, students will be able to make simple webpages that involve fundamental JavaScript concepts.|
 |[Advanced Course](advanced)| The focus of this course is **Experience**. In this course, students will futher develop their technical skills through projects that involve more advanced JavaScript concepts, including APIs. Students will also build their professional skill set.|
-|[ScriptEd Studio](studio)| The focus of this course is **Agency**. In this course, students will work with more advanced APIs, including Firebase.  They will also be introduced to front-end frameworks and learn the fundamentals of ReactJS.  Students will continue their professional development and increase their coding independence.|
+|[Studio Course](studio)| The focus of this course is **Agency**. In this course, students will work with more advanced APIs, including Firebase.  They will also be introduced to front-end frameworks and learn the fundamentals of ReactJS.  Students will continue their professional development and increase their coding independence.|
 
 -----
 
