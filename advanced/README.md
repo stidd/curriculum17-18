@@ -14,11 +14,11 @@
 | [**3: Pig Latinizer**](units/unit3) | 3 | Functions, Iterating, Manipulating Strings and Arrays| Student will create a pig latin translator. This will require students to create and input box and a button with click handler. The program will read text and dislpay the pig latinized result to the screen. |
 | [**4: Person Object**](units/unit4) | 3 | Objects | Students will update thier portfolio about me page with create an object that contains information about themselves. Students will navigate the object and pull information to display to the screen.   |
 | [**5: Playlist**](units/unit5) | 3 | Iteration, Array of Objects | Students will create an application by which they create an array of songs objects in the form of a JSON response. They will iterate over the array and add an div containg song infrmation to the screen.|
-| [**Mid Year Challenge**](units/midYearChallenge) | 1 | Review | take a coding challenge that will test all the skills they have been taught so far.|
+| [**Mid-Year Review**](units/midYearChallenge) | 1 | Review | take a coding challenge that will test all the skills they have been taught so far.|
 | [**6: ScriptEd  API**](units/unit6) | 3 | API, GET, AJAX  | Students will be introduced to APIS. They will create and application by which they use the Giphy API and display it to the results scrern. They will iterate over the array and add an div containg student infrmation to the screen.  |
 | [**7: External API**](units/unit7)| 3 | API, GET  | |
 | [**8: Client Project**](units/unit8) | 5 | Project Management | Students will work in pairs to create a project for a client. This project is intended to highlight some very important aspects of goal setting and project management. It is a culminating project that will incorperate all of the skills learn thus far. |
-| [**EOY Wrap Up**](units/midYearChallenge) | 2 | Hackerrank / Survey, Celebration | close out the year with EOY Hackerrank, Survey and Celebration|
+| [**End-of-Year Wrap Up**](units/midYearChallenge) | 2 | Hackerrank / Survey, Celebration | close out the year with EOY Hackerrank, Survey and Celebration|
 
 ----
 ## Wiki
