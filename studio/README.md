@@ -1,4 +1,4 @@
-# ScriptEd Curriculum 2017-2018
+# Studio Curriculum, 17-18
 
 ## Pacing Calendar
 
@@ -25,7 +25,7 @@
 * Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Studio) for additional resources and activities.
 
 ----
-**Curriculum developed by**: 
+**Curriculum content contributed by**: 
 
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
