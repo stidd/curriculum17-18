@@ -4,7 +4,7 @@
 
 
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
+|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Recommended Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1cR_YDhz4DGt0Ac01gEvkNQ5bkL-nuYbuQjCJNBTvu9w/edit)|45| <li>Create a new variable, store information in it, and read its value.</li> |[Kim and Kayne MadLibs](https://gist.github.com/Bijesse/fc6d7f083812193edde5ac3f9865d11a)|
 |[**2**](https://docs.google.com/presentation/d/1L8fl2_euOsZUsJit9VS3rvxIppZK6EIB53M_KDodTp0/edit#slide=id.g1b2b1962d2_0_158)|45|<li> Identify strings and numbers as value types and differentiate between them.</li> |[N/A]()|
