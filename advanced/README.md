@@ -1,4 +1,4 @@
-# Advanced Curriculum 2017-2018
+# Advanced Curriculum, 17-18
 
 ## Pacing Calendar
 ![Imgur](http://i.imgur.com/8LibL1t.png)
