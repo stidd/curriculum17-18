@@ -5,7 +5,7 @@
 
 
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
+|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Recommended Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1x0tWrasM1awuc0AsMcEpkDudgxqjcWWsYvZMYgkGVwg/edit?usp=sharing)|45| <li> Identify the purpose of a webpage and design a wireframe.</li>|[N/A]()|
 |[**2**](https://docs.google.com/presentation/d/1Shq5aEZuO6h84hl3vCLVhakKWuqw_P4JQfM9-6cbUPw/edit?usp=sharing)|45|<li> Use box model (padding, border, and margin) to manipulate the spacing of elements on a page.</li>|[CSS Zen Garden](https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/year1/units/unit4/projects/project2)|
