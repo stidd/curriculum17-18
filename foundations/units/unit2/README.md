@@ -1,6 +1,6 @@
 # Unit 2: CSS
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
+|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Recommended Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1c1iB7q9aV9B-NkAN3KcQ0sLU--c-s6D4lbUPDXpjndg/edit?usp=sharing)|45| <li> Select an HTML element and change its style using CSS.</li> |[N/A]()|
 |[**2**](https://docs.google.com/presentation/d/18jWokUbYaFhSJCjVoA3j-KqLYmZtweHXHQemzWk3zXc/edit?usp=sharing)|45|<li> Style a page using CSS properties and values.</li> |[Simpson CSS Practice](https://docs.google.com/presentation/d/1qW1aBLYlE6iJeokh6R5_eqLr5i0pIzWJhKuZzMOkHHw/edit#slide=id.g12ee5b58a7_0_5)<br>|
