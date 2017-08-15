@@ -3,7 +3,7 @@
 
 
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
+|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Recommended Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**]()|45| <li>Coders will be able to declare a function that has a return value.</li>|[Resource 1]()<br>[Resource 2]()|
 |[**2**]()|45|<li>Coders will be able to store a return value from a function and use it later.</li>|[Resource 1]()<br>[Resource 2]()|
