@@ -6,7 +6,7 @@
 
 
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
+|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Recommended Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1fu9E-5kqbS3PpDyLfbHrFCI37ddFiAE1iY05GIxs_4E/edit?usp=sharing)|45| <li>Use correct jQuery syntax to hide an element on the page when it is clicked.</li> |[Interactive jQuery Reference Table](https://popcode.org/?gist=ad90bdd7a31ba4c0c84c1bec0320a95b)|
 |[**2**](https://docs.google.com/presentation/d/1t-aiNt-AtpCOrL0G1Zug3mUMxDFDcuLs9NJVkcTQiDI/edit?usp=sharing)|45|<li> Use jQuery actions that take one or more arguments, including .text and .css, when a button is clicked.</li> |[N/A]()<br>[N/A]()|
