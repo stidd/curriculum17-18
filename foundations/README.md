@@ -1,4 +1,4 @@
-Foundations Curriculum
+Foundations Curriculum, 17-18
 ===================
 
 <!--
@@ -42,7 +42,7 @@ Pacing Calendar (Year 1)
 
 ----
 
-**Curriculum developed by**: Dan Applegate, Matthew Brown, Vanessa Dean, Meghan Knoll, Sophat Sam, Scot Spinner, Tanya Trinkle, Jesse Wang, and Sarah Zinger
+**Curriculum content contributed by**: Dan Applegate, Matthew Brown, Vanessa Dean, Meghan Knoll, Sophat Sam, Scot Spinner, Tanya Trinkle, Jesse Wang, and Sarah Zinger
 
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
