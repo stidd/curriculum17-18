@@ -1,5 +1,5 @@
 # Unit 1: HTML Intro
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Extra Resources|
+|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Recommended Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1wKD2IDTmRylzpIyra4y4EtDH2dxBq7Rm0Ns1JugfRUo/edit?usp=sharing)|45| <li>Use correct syntax to create an an opening and a closing HTML tag for simple HTML elements.</li>  |[N/A]()|
 |[**2**](https://docs.google.com/presentation/d/1gXWIZF9SEGTuMQSwPdOL3w4aBMl9gGC-olPydTM8_Kk/edit?usp=sharing)|45|<li>Use correct syntax to create simple HTML elements.</li> |[N/A]()|
