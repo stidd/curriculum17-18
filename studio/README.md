@@ -13,7 +13,7 @@
 | [**3:**](units/unit3) | 3 | ||
 | [**4:**](units/unit4) | 3 |  |  |
 | [**5:**](units/unit5) | 3 |  | |
-| [**Mid Year Challenge**](units/midYearChallenge) | 1 |  | |
+| [**Midyear Review**](units/midYearChallenge) | 1 |  | |
 | [**6:**](units/unit6) | 3 |  |   |
 | [**7:**](units/unit7)| 3 | | |
 | [**Final Project**](units/9-entrepreneur) | 5 | | |
