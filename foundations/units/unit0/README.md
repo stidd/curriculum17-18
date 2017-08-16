@@ -1,5 +1,5 @@
 # Unit 0: Welcome and Routines
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Recommended Resources|
+|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1AG91hU80gvA3RU5hAvgfVgxt93XB_DGq-0Cub7uQAxk/edit?usp=sharing)|45| Identify two things they are excited to learn in ScriptEd and be able to name their classmates and teachers.  |[N/A]()|
 |[**2**](https://docs.google.com/presentation/d/1QvIEg-6ahjM-E9Va2BVL3xlVnL4L96Zya5fn22bg-Kk/edit?usp=sharing)|45|Navigate the Daily Session Document. |[N/A]()|
