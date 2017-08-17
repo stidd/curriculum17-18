@@ -3,7 +3,7 @@
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1AG91hU80gvA3RU5hAvgfVgxt93XB_DGq-0Cub7uQAxk/edit?usp=sharing)|45| Identify two things they are excited to learn in ScriptEd and be able to name their classmates and teachers.  |[N/A]()|
 |[**2**](https://docs.google.com/presentation/d/1QvIEg-6ahjM-E9Va2BVL3xlVnL4L96Zya5fn22bg-Kk/edit?usp=sharing)|45|Navigate the Daily Session Document. |[N/A]()|
-|[**3**](https://docs.google.com/presentation/d/1TVu1DgtD17eUJbXYn82h0aACIV2OtjA4cMLp2JNgNCU/edit?usp=sharing)|45| Navigate the popcode coding enviornment and create a Github account to share their work. |[N/A]()|
+|[**3**](https://docs.google.com/presentation/d/1TVu1DgtD17eUJbXYn82h0aACIV2OtjA4cMLp2JNgNCU/edit?usp=sharing)|45| Navigate the popcode coding environment and create a Github account to share their work. |[N/A]()|
 
 
 
