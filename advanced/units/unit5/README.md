@@ -16,4 +16,4 @@ Students will create an application by which they create an array of songs objec
 |[**2**](https://docs.google.com/presentation/d/1r-jrg8aBtzApm5YOBokQ22VIBVAsLoqmr6PVx118h50/edit?ts=5963fa30#slide=id.g1f587f6424_5_5)| <li>[2.1]() Create a loop that enumerates through an  object </li> <li>[2.2]() Use jQuery and string concatenation to display data on the page</li> |Work on Project|
 |[**3**](https://docs.google.com/presentation/d/1r-jrg8aBtzApm5YOBokQ22VIBVAsLoqmr6PVx118h50/edit?ts=5963fa30#slide=id.g1e220fa94a_0_4)| <li>[3.1]() Create a loop that iterates through an array of objects</li> <li>[3.2]() Use jQuery and string concatenation to display data on the page</li> |Submit Project|
 
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback!</a></h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-5-playlist">Contribute to the Wiki</a> </h3>
