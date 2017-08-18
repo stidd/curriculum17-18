@@ -7,16 +7,18 @@
 | Unit  | Sessions | Skills | Overview|
 |-------|:-------:|------|------|
 | [**Launch Day**](units/launch) | 1  | Intro | All studio students will meet at a central location. At this event, students will learn about the expectations for the course, meet the larger Studio Program student community, and be notified of their company placement.|
-| [**0:**](units/unit0)| 2 | | |
-| [**1:**](units/unit1) | 3 |   | 
-| [**2:**](units/unit2) | 3 | |
-| [**3:**](units/unit3) | 3 | ||
-| [**4:**](units/unit4) | 3 |  |  |
-| [**5:**](units/unit5) | 3 |  | |
-| [**Midyear Review**](units/midYearChallenge) | 1 |  | |
-| [**6:**](units/unit6) | 3 |  |   |
-| [**7:**](units/unit7)| 3 | | |
-| [**Final Project**](units/9-entrepreneur) | 5 | | |
+| [**0: Intro and Review**](units/unit0) | 3 | | |
+| [**1: Portfolio**](units/unit1) | 3 | | | 
+| [**2: Code Lab**](units/unit2) | 3 | | |
+| [**Site Specific**]() | 1 | | |
+| [**3: Firebase and React**](units/unit3) | 3 | | |
+| [**4: Firebase and React**](units/unit4) | 3 | | |
+| [**Site Specific**]() | 1 | | |
+| [**5: Firebase and React**](units/unit5) | 3 | | |
+| [**Midyear Review**](units/midYearChallenge) | 1 | | |
+| [**6: Open Source**](units/unit6) | 3 | | |
+| [**Site Specific**]() | 3 | | |
+| [**7: Client Project**](units/unit7) | 5 | | |
 | [**EOY Wrap Up**](units/midYearChallenge) | 2 | | |
 
 ----
