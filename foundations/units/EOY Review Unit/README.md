@@ -2,9 +2,9 @@
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
-|[**1**](https://drive.google.com/open?id=1Jsh8ASe1FfjEopFyOM2E8ny9t4ugIaZYHtUJ59NrjbE)|45| Prepare for their upcoming end-of-year challenge by competing in jeopardy. Jeopardy will test their knowledge of HTML, CSS,jQuery, and JavaScript.|N/A|
-|[**2**](https://drive.google.com/open?id=1n8EFbqXP_0KtCWmXfEp5atNM5rChbg1_3XndYayhUjs)|45| Demonstrate their HTML, CSS, jQuery, and JavaScript knowledge through the Final HackerRank Challenge.|N/A|
-
+|[**1**]()|45| Complete an end-of-year survey to reflect on their ScriptEd experience and share feedback.|N/A|
+|[**2**]()|45| Prepare for their upcoming end-of-year challenge by competing in jeopardy. Jeopardy will test their knowledge of HTML, CSS,jQuery, and JavaScript.|N/A|
+|[**3**]()|45| Demonstrate their HTML, CSS, jQuery, and JavaScript knowledge through the Final HackerRank Challenge.|N/A|
 
 
 
