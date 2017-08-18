@@ -1,7 +1,7 @@
 # Studio Curriculum, 17-18
 
 ## Pacing Calendar
-
+![Imgur](http://i.imgur.com/ngICBnq.png)
 ## Scope and Sequence
 
 | Unit  | Sessions | Skills | Overview|
