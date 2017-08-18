@@ -1,4 +1,4 @@
-<p align="center"> <img src="CurriculumHeader.png" ></p>
+<p align="center"> <img src="CurriculumHeader.jpg" ></p>
 
 |Level|Description|
 |----|----|
