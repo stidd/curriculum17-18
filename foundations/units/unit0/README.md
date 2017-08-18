@@ -7,4 +7,4 @@
 
 
 |  <h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Submit Your Feedback!</a></h3> | <h3><a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations">Contribute to the Wiki!</a></h3>  |
-
+|:-------:|:-------:|
