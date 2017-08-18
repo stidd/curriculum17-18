@@ -1,4 +1,4 @@
-<p align="center"> <img src="http://i.imgur.com/KxRicIt.png" ></p>
+<p align="center"> <img src="CurriculumHeader.png" ></p>
 
 |Level|Description|
 |----|----|
