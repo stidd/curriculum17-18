@@ -6,5 +6,5 @@
 |[**3**](https://docs.google.com/presentation/d/1TVu1DgtD17eUJbXYn82h0aACIV2OtjA4cMLp2JNgNCU/edit?usp=sharing)|45| Navigate the popcode coding environment and create a Github account to share their work. |N/A|
 
 
-|  <h4><a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Submit Your Feedback</a></h4> | <h4><a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations">Contribute to the Wiki</a></h4>  |
-|:-------:|:-------:|
+ <h4 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations">Contribute to the Wiki</a></h4> 
+
