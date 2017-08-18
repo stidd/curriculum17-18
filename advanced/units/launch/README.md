@@ -6,11 +6,11 @@ All advanced students will meet at a central location. At this event, students w
 ## Important Links
 | Student Contract | 
 |:-------:|
-|[Scavenger Hunt] |  
+|[Student Contract]() |  
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
-|:-------:|-------|:-------|
+|:-------:|:-------|
 |[**1**]()|<li> Coders will be able to understand the requirements of taking part in the ScriptEd Advanced Class and how the experience is different from their foundations course.</li> 
 <li>Coders will be able to describe appropriate formal and informal written communication as well as verbal communication in the workplace</li>
 <li>Coders will be able to learn the importance of communicating with ScriptEd Program Managers and update their contact information (new emails, phone #'s, and github usernames)</li>
