@@ -37,7 +37,7 @@ Pacing Calendar (Year 1)
 ----
 ## School Teacher Resources
 
-* [Pacing Guide for in-class teachers](https://docs.google.com/document/d/1VpqdNMfpK-aCu0N0ecjeAgn9kPL22lAm2r6ExrSI8UA/edit?usp=sharing): To be used in ScriptEd course that are co-taught with a teacher from the school.
+* [ScriptEd Teacher Liaison Curriculum Guide 17-18](https://docs.google.com/document/d/1VpqdNMfpK-aCu0N0ecjeAgn9kPL22lAm2r6ExrSI8UA/edit?usp=sharing): To be used in ScriptEd course that are co-taught with a teacher from the school.
 * [CodeCademy Class Creator Guidelines](https://docs.google.com/document/d/1-6vh1QM2h0tZzTIl_183C_lt7ezv_pQ-QXsHQKkDAgQ/edit)  
 
 ----
