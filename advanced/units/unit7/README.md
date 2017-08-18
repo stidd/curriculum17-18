@@ -15,4 +15,4 @@
 |[**2**](https://docs.google.com/presentation/d/1H40VvavX0N4xZtA1VJfQD5gelOLNflGozumlbdUoXos/edit#slide=id.g1f587f6424_5_5)| <li>Registering for an API KEY</li><li>Using basic Authentication in Headers</li> | |Work on Project|
 |[**3**](https://docs.google.com/presentation/d/1H40VvavX0N4xZtA1VJfQD5gelOLNflGozumlbdUoXos/edit#slide=id.g1e220fa94a_0_4)|  | |Submit Project|
 
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback!</a></h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-7-api">Contribute to the Wiki</a></h3>
