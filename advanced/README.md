@@ -26,7 +26,7 @@
 * Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced) for additional resources and activities.
 
 ----
-**Curriculum content contributed by**: Ali Hoefinger, Andrew Meier, Becky Segal, Greg Thompson, James Do, & Matthew Gerrior
+**Curriculum content contributed by**: Ali Hoefinger, Andrew Meier, Becky Segal, Greg Thompson, James Do, Matthew Gerrior & Lauren Sperber
 
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
