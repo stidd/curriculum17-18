@@ -1,4 +1,4 @@
-# EOY Review Unit
+# End of Year Wrap-Up
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
