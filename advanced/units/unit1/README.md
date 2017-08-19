@@ -2,7 +2,7 @@
 
 
 ## Overview
-In this unit students will create a professional portfoilio. Students will use bootstrap and to create a reponsive page. Students will use this portfolio as place to upload future projects after the are completed. 
+In this unit coders will create a professional portfoilio. Coders will use bootstrap and to create a reponsive page. Coders will use this portfolio as place to upload future projects after they are completed.
 ## Important Links
 
 | Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
