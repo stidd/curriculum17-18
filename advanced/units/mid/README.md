@@ -2,6 +2,11 @@
 
 ## Overview
 Coders will take a coding challenge that will test all the skills they have been taught so far.
+
+| Review | Hacker Rank |
+|:-------:|:-------:|
+|[Review]()|[Challenge]() |
+
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
