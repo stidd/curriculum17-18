@@ -18,7 +18,7 @@
 | [**6: Giphy  API**](units/unit6) | 3 | API, GET, AJAX, JSON | Students will be introduced to APIs. They will create an application by which they use the Giphy API and display it to the results screen. They will iterate over the array and add an div containg thumbnails to the screen.|
 | [**7: API**](units/unit7)| 3 | API, Documentation, Postman| Students will be refine thier work with APIs. They will create an application by which they use the API and display it to the results screen.|
 | [**8: Client Project**](units/unit8) | 5 | Review, Project Management | Students will work in pairs to create a project for a client. This project is intended to highlight some very important aspects of goal setting and project management. It is a culminating project that will incorperate all of the skills learn thus far. |
-| [**EOY Wrap Up**](units/eoy) | 2 | Hackerrank / Survey, Celebration | close out the year with EOY Hackerrank, Survey and Celebration|
+| [**EOY Wrap Up**](units/eoy) | 2 | Hackerrank / Survey, Celebration | Students will close out the year with EOY Hackerrank, Survey and Celebration|
 
 ----
 ## Wiki
