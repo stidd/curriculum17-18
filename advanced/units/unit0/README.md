@@ -1,7 +1,7 @@
 # Unit 0: Launch Review
 
 ## Overview
-Routines and Procedures, Get to know you, Review
+In this unit coders will go over routines and procedures as well as have time for get to know yous and team building. This is followed by review of HTML, CSS, Javascript from foundations.
 
 ## Important Links
 |  Starter Code | Solution Code  | Extra Resources |
