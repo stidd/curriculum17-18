@@ -1,7 +1,7 @@
 # Unit 8: Client Project
 
 ## Overview
-Students will work in pairs to create a project for a client. This project is intended to highlight some very important aspects of goal setting and project management. It is a culminating project that will incorperate all of the skills learn thus far. 
+Coders will work in pairs to create a project for a client. This project is intended to highlight some very important aspects of goal setting and project management. It is a culminating project that will incorperate all of the skills learned thus far.
 
 ## Important Links
 
