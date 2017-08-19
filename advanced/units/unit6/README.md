@@ -2,7 +2,7 @@
 
 
 ## Overview
-Students will be introduced to APIS. They will create and application by which they use the Giphy API and display it to the results scrern. They will iterate over the array and add an div containg student infrmation to the screen.
+Coders will be introduced to APIs. They will create an application by which they use the Giphy API and iterate over the JSON and add thumbnails to the screen.
 
 
 ## Important Links
