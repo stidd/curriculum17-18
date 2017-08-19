@@ -1,6 +1,7 @@
 # End of Year
 
 ## Overview
+Coders will close out the year with EOY Hackerrank, Survey and Celebration
 
 ## Important Links
 | Review | Hacker Rank |
