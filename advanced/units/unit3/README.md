@@ -2,7 +2,7 @@
 
 
 ## Overview
-Student will create a pig latin translator. This will require students to create and input box and a button with click handler. The program will read text and dislpay the pig latinized result to the screen.
+Student will create a pig latin translator. This will require coders to create and input box and a button with click handler. The program will manipulate the inputted string and dislpay the pig latinized result to the screen.
 
 ## Important Links
 | Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
