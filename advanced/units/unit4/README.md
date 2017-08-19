@@ -1,7 +1,7 @@
 # Unit 4: Objects
 
 ## Overview
-Students will update thier portfolio about me page with create an object that contains information about themselves. Students will navigate the object and pull information to display to the screen. 
+Coders will create and object representation of their portfolio page. Coders will navigate the object and pull information to display to the screen.
 
 ## Important Links
 
