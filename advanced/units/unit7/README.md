@@ -1,4 +1,4 @@
-# Unit 7: API
+# Unit 7: Civics API
 
 ## Overview
 
@@ -6,7 +6,7 @@
 
 | Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| Example |[Project Plainning Doc](https://docs.google.com/document/d/1djJGD16zKw0DsNOKir0yP6wt-MW751isL-7UDK7ZSRc/edit) | Starter Code | Solution Code | [Rubric](https://drive.google.com/open?id=1sE57raysW2J8LFMpNi86e1bfZ8Q9DE0OmLgGnReL-y4) | [Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-7-api) |
+| [Example](https://scriptedcurriculum.github.io/advanced_civics_solution/) |[Project Plainning Doc](https://docs.google.com/document/d/1djJGD16zKw0DsNOKir0yP6wt-MW751isL-7UDK7ZSRc/edit) | [Starter Code](https://github.com/ScriptEdcurriculum/advanced_civics_startercode) | [Solution Code](https://github.com/ScriptEdcurriculum/advanced_civics_solution) | [Rubric](https://drive.google.com/open?id=1sE57raysW2J8LFMpNi86e1bfZ8Q9DE0OmLgGnReL-y4) | [Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-7-api) |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
