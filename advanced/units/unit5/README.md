@@ -1,7 +1,7 @@
 # Unit 5: Playlist
 
 ## Overview: 
-Coders will create an application by which they create an array of songs objects in the form of a JSON response. They will iterate over the array and add an div containg song information to the screen.
+Coders will create an application by which they create an array of songs objects in the form of a JSON response. They will iterate over the array and add a div containing song information to the screen..
 
 ## Important Links
 
