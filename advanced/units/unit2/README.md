@@ -2,7 +2,7 @@
 
 
 ## Overview
-In this project coders will create a Rock, Paper, Scissors game! Using HTML, CSS, JQuery, and Javascript, coders will create a fully functioning game that will take user input, genearate a computer choice and display the winner to the screen.
+In this project coders will create a Rock, Paper, Scissors game! Using HTML, CSS, JQuery, and Javascript, coders will create a fully functioning game that will take user input, generate a computer choice and display the winner to the screen.
 
 ## Important Links
 
