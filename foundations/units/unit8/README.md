@@ -5,10 +5,10 @@
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
-|[**1**]()|45| Coders will be able to declare a function that has a return value.|N/A|
-|[**2**]()|45|Coders will be able to store a return value from a function and use it later.|N/A|
-|[**3**]()|45| Coders will be able to declare a function that takes in a value from an input field and passes it through a parameter.|N/A|
-|[**Project 1**]()|45x2|Coders will be able add additional functionality to the ScriptEd Robot by using input fields and return statements.|[Calculator](https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/year1/units/unit10/projects/project2)|
+|[**1**](https://drive.google.com/open?id=1e1cjWRSbVPAE0V1t9trFXPSCOwDI7AXw0_-I_H6DJ98)|45| Coders will be able to declare a function that has a return value.|N/A|
+|[**2**](https://drive.google.com/open?id=1ZF68R-I-aLSL0Nx3i9CqntVV8xun9XTBgC2V1hpI5n0)|45|Coders will be able to store a return value from a function and use it later.|N/A|
+|[**3**](https://drive.google.com/open?id=1-kW8zVrvpInPklqGSdDph1QZjiIMF_X7vTPtFTnPpCU)|45| Coders will be able to declare a function that takes in a value from an input field and passes it through a parameter.|N/A|
+|[**Project 1**](https://drive.google.com/open?id=1yTTo7mTtTxh5ovuwwRrzvC-KwGe3kKjPZ66QfJx18mE)|45x2|Coders will be able add additional functionality to the ScriptEd Robot by using input fields and return statements.|[Calculator](https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/year1/units/unit10/projects/project2)|
 
 
 
