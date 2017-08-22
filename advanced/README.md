@@ -7,7 +7,6 @@
 
 | Unit  | Sessions | Skills | Overview|
 |-------|:-------:|------|------|
-| [**Launch Day**](units/launch) | 1  | Intro | On this day, all coders will meet at a central location to learn about the expectations for the course, meet the larger Advanced Program student community, and participate in Professional Development around workpace communication.|
 | [**0: Intro and Review**](units/unit0)| 3 | HTML, CSS, Javascript Review, Dev Tools, Git| In this unit, coders will work on team building and go over daily routines and procedures. Coders will complete a scavenger hunt to review HTML, CSS, Javascript from foundations. In the final lesson, coders will learn how to use developer tools to debug HTML and CSS code.  |
 | [**1: Portfolio**](units/unit1) | 3 | Wireframing, Bootstrap, gh-pages  | In this unit, coders will create an online Portfolio. The Portfolio will provide personal information, links to their prior projects, and contact information. To create this project, coders will use bootstrap to layout their page and gh-pages to host their portfolio. |
 | [**2: Rock, Paper, Scissors**](units/unit2) | 3 | jQuery, Arrays, Math Library, Conditionals|In this unit coders will create a Rock, Paper, Scissors game. The Rock, Paper, Scissors game will take user choice, generate a computer choice, and display the winner to the screen. To create this project, coders will use jQuery to take user input and display data, arrays to store user choice, the Math Library to generate a random index, and conditionals determine the winner.|
@@ -19,7 +18,12 @@
 | [**7: Civic Info App**](units/unit7)| 3 | API, Documentation, Postman, Request Body| In this unit, coders will create a Civic Info App. The Civic Info App will take an address and display all of the elected representatives realted to that address. To create this project, students will use AJAX to make a get request witha body parameter, handle a JSON response object, and use jQuery to display multiple objects to the screen.|
 | [**8: Client Project**](units/unit8) | 5 | Review, Project Management| In this unit, coders create a Client Project. Coders will work in pairs to create a project for a client based on a given set of API's. This is a culminating project that incorporates all of the skills that have been taught in the course and is intended to highlight some important aspects of goal setting and project management.  |
 | [**EOY Wrap Up**](units/eoy) | 2 | Hackerrank, Survey, Celebration | In this unit, coders will close out the year with a culminating Hackerrank challege, end-of-year Survey, and class celebration.|
+----
+## Professional Development Days
 
+| Unit  | Date | Skills | Overview|
+|-------|:-------:|------|------|
+| [**Launch Day**](units/launch) | September 23rd  | Intro | On this day, all coders will meet at a central location to learn about the expectations for the course, meet the larger Advanced Program student community, and participate in Professional Development around workpace communication.|
 ----
 ## Wiki
 
