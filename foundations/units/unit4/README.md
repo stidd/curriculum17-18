@@ -7,11 +7,11 @@
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1x0tWrasM1awuc0AsMcEpkDudgxqjcWWsYvZMYgkGVwg/edit?usp=sharing)|45| Identify the purpose of a webpage and design a wireframe.|N/A|
+|[**1**](https://drive.google.com/open?id=1fi7fSm-pSTL0E9opFuZfTdEpS8D7-PbVMXV8Vwxoxec)|45| Identify the purpose of a webpage and design a wireframe.|N/A|
 |[**2**](https://docs.google.com/presentation/d/1Shq5aEZuO6h84hl3vCLVhakKWuqw_P4JQfM9-6cbUPw/edit?usp=sharing)|45| Use box model (padding, border, and margin) to manipulate the spacing of elements on a page.|[CSS Zen Garden](https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/year1/units/unit4/projects/project2)|
-|[**3**](https://docs.google.com/presentation/d/1HRSuPOxtjWA5I8ZCKKEIFHLK4ZqAT0HvZ_UkfqTx37Y/edit?usp=sharing)|45| Use Flexbox to center elements on a webpage.|N/A|
-|[**4**](https://docs.google.com/presentation/d/1O5i-o8Ag9X5T-Gz_F2USOYchdXQsIa7ZXXM_0D_peiA/edit#slide=id.g1d0118cf2a_0_406)|45| Use Flexbox to create columns on a webpage.|[Flexbox Froggy](https://flexboxfroggy.com/)|
-|[**Project 1**](https://docs.google.com/presentation/d/1ehDnSN-u10uo1g5sKlBxriTl4uBQkjYiDvWpVTetvwg/edit?usp=sharing)|45x2|Create a website for a mock client|N/A|
+|[**3**](https://drive.google.com/open?id=1HRSuPOxtjWA5I8ZCKKEIFHLK4ZqAT0HvZ_UkfqTx37Y)|45| Use Flexbox to center elements on a webpage.|N/A|
+|[**4**](https://docs.google.com/presentation/d/1GhgKfH8QqQtkrFT9UPjb4HwisB7N_i3s5bq3WfOSedc/edit?usp=sharing)|45| Use Flexbox to create columns on a webpage.|[Flexbox Froggy](https://flexboxfroggy.com/)|
+|[**Project 1**](https://drive.google.com/open?id=1xt3zxxxx5zAvO9vQkI-i8WaBFWwi85otRY06axaVD3g)|45x2|Create a website for a mock client|N/A|
 
 
 
