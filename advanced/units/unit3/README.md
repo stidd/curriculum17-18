@@ -2,7 +2,7 @@
 
 
 ## Overview
-Coders will create a pig latin translator. This will require coders to create and input box and a button with click handler. The program will manipulate the inputted string and display the pig latinized result to the screen.
+In this unit coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. In order to create this project, coders will use jQuery to take user input and display data, functions to separate concerns, string methods separate and transform words, for loops to iterate over multiple items in an array, array methods to add items and join items into a sentence.
 
 ## Important Links
 | Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
