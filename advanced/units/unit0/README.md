@@ -1,7 +1,7 @@
 # Unit 0: Launch Review
 
 ## Overview
-In this unit coders will go over routines and procedures as well as have time for get to know yous and team building. This is followed by review of HTML, CSS, Javascript from foundations.
+In this unit coders will work on team building and go over daily routines and procedures. Coders will complete a scavenger hunt to review HTML, CSS, Javascript from foundations. In the final lesson coders will learn how to use developer tools to debug HTML and CSS code.
 
 ## Important Links
 |  Starter Code | Solution Code  | Extra Resources |
