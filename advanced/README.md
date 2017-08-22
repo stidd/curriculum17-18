@@ -20,10 +20,10 @@
 | [**EOY Wrap Up**](units/eoy) | 2 | Hackerrank, Survey, Celebration | In this unit, coders will close out the year with a culminating Hackerrank challege, end-of-year Survey, and class celebration.|
 ----
 
-## Student Professional Development Days
+## Professional Development Days
 
 | Date  | Session | Objectives <br> *Coders will be able to...*|
-|-------|:-------:|------|
+|-------|-------|------|
 | September 23rd |[**Advanced Class Launch**](units/launch) |<ul> <li>Understand the requirements of taking part in the ScriptEd Advanced Class and how the experience will be different from their foundations course.   </li> <li> Appropriately communicate with a variety of audiences (formal and informal) using written and verbal methods.  </li> <li> Explain the importance of communicating with ScriptEd Program Managers and expectations for doing so.</li> </ul>   | 
 ----
 ## Wiki
