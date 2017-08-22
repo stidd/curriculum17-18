@@ -19,17 +19,18 @@
 | [**8: Client Project**](units/unit8) | 5 | Review, Project Management| In this unit, coders create a Client Project. Coders will work in pairs to create a project for a client based on a given set of API's. This is a culminating project that incorporates all of the skills that have been taught in the course and is intended to highlight some important aspects of goal setting and project management.  |
 | [**EOY Wrap Up**](units/eoy) | 2 | Hackerrank, Survey, Celebration | In this unit, coders will close out the year with a culminating Hackerrank challege, end-of-year Survey, and class celebration.|
 ----
-## Professional Development Days
-
-| Unit  | Date | Skills | Overview|
-|-------|:-------:|------|------|
-| [**Launch Day**](units/launch) | September 23rd  | Intro | On this day, all coders will meet at a central location to learn about the expectations for the course, meet the larger Advanced Program student community, and participate in Professional Development around workpace communication.|
-----
 ## Wiki
 
 * Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced) for additional resources and activities.
 
 ----
+## Student Professional Development Days
+
+| Date  | Session | Objectives <br> *Coders will be able to...*|
+|-------|:-------:|------|
+| September 23rd |[**Advanced Class Launch**](units/launch) |<ul> <li>Understand the requirements of taking part in the ScriptEd Advanced Class and how the experience will be different from their foundations course.   </li> <li> Appropriately communicate with a variety of audiences (formal and informal) using written and verbal methods.  </li> <li> Explain the importance of communicating with ScriptEd Program Managers and expectations for doing so.</li> </ul>   | 
+----
+
 **Curriculum content contributed by**: Ali Hoefinger, Andrew Meier, Becky Segal, Greg Thompson, James Do, Matthew Gerrior & Lauren Sperber
 
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
