@@ -2,7 +2,7 @@
 
 
 ## Overview
-Coders will be introduced to APIs. They will create an application by which they use the Giphy API and iterate over the JSON and add thumbnails to the screen.
+In this unit coders will create a Giphy App. The Giphy App will take a search term as input and display a random Gif in a thumbnail to the screen. In order to create this project learn the anatomy of a API Request, use AJAX to make a simple get request, handle a JSON response object, use jQuery to display a gif image.
 
 
 ## Important Links
