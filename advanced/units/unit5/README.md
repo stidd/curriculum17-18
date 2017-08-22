@@ -12,7 +12,7 @@ Coders will create an application by which they create an array of songs objects
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1r-jrg8aBtzApm5YOBokQ22VIBVAsLoqmr6PVx118h50/edit?ts=5963fa30#slide=id.g1e220fa94a_0_26)| <li> [1.1]() plan and wireframe a project </li> <li> [1.2]() Create HTML for project </li> |Add Styling|
+|[**1**](https://docs.google.com/presentation/d/1r-jrg8aBtzApm5YOBokQ22VIBVAsLoqmr6PVx118h50/edit?ts=5963fa30#slide=id.g1e220fa94a_0_26)| <li> [1.1]() Plan and wireframe a project </li> <li> [1.2]() Create HTML for project </li> |Add Styling|
 |[**2**](https://docs.google.com/presentation/d/1r-jrg8aBtzApm5YOBokQ22VIBVAsLoqmr6PVx118h50/edit?ts=5963fa30#slide=id.g1f587f6424_5_5)| <li>[2.1]() Create a loop that enumerates through an  object </li> <li>[2.2]() Use jQuery and string concatenation to display data on the page</li> |Work on Project|
 |[**3**](https://docs.google.com/presentation/d/1r-jrg8aBtzApm5YOBokQ22VIBVAsLoqmr6PVx118h50/edit?ts=5963fa30#slide=id.g1e220fa94a_0_4)| <li>[3.1]() Create a loop that iterates through an array of objects</li> <li>[3.2]() Use jQuery and string concatenation to display data on the page</li> |Submit Project|
 
