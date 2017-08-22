@@ -1,8 +1,7 @@
 # Unit 5: Playlist
 
 ## Overview: 
-Coders will create an application by which they create an array of songs objects in the form of a JSON response. They will iterate over the array and add a div containing song information to the screen..
-
+In this unit coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. In order to create this project, coders will create an array of songs objects, use a for loop to iterate over the array of object, and display data to the screen using jQuery.
 ## Important Links
 
 | Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
