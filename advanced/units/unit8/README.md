@@ -5,9 +5,9 @@ In this unit coders create a Client Project. Coders will work in pairs to create
 
 ## Important Links
 
-| Example | Student Planning |  Starter Code |  Rubric | Extra Resources |
+| Example Project | Project Planning |  Starter Code |  Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-|[Example]() | [Project Plainning Doc]()| [Rubric](https://drive.google.com/open?id=1KYAtDxUNMjCAMOsC8V6ad8xazCEorROszMWtHn2nXDE) | [Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-8-client) |
+|[08 EP]() | [08 PP]()| |[08 Rubric](https://drive.google.com/open?id=1KYAtDxUNMjCAMOsC8V6ad8xazCEorROszMWtHn2nXDE) | [08 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-8-client) |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
