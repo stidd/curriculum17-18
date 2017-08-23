@@ -28,7 +28,7 @@
 ----
 ## Wiki
 
-* Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Advanced) for additional resources and activities.
+* Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced) for additional resources and activities.
 
 ----
 **Curriculum content contributed by**: Ali Hoefinger, Andrew Meier, Becky Segal, Greg Thompson, James Do, Matthew Gerrior & Lauren Sperber
