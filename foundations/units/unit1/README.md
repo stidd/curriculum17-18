@@ -4,7 +4,7 @@
 |[**1**](https://docs.google.com/presentation/d/1wKD2IDTmRylzpIyra4y4EtDH2dxBq7Rm0Ns1JugfRUo/edit?usp=sharing)|45| Use correct syntax to create an an opening and a closing HTML tag for simple HTML elements. |N/A|
 |[**2**](https://docs.google.com/presentation/d/1gXWIZF9SEGTuMQSwPdOL3w4aBMl9gGC-olPydTM8_Kk/edit?usp=sharing)|45|Use correct syntax to create simple HTML elements. |N/A|
 |[**3**](https://docs.google.com/presentation/d/1w1KSNgJ-wM9UwQJWIa31NIoixEuQKereuSnYtYA7jCA/edit?usp=sharing)|45|Nest HTML elements including ordered and unordered lists.|N/A|
-|[**4**](https://docs.google.com/presentation/d/1Z-nW9iT8D_P5uAkL6ag7R3oqBcXKL5gFpjf_qq5J04g/edit?usp=sharing)|45| Create HTML elements with attributes to include links and images in their pages. |N/A|
+|[**4**](https://docs.google.com/presentation/d/1N-1PmHfFfOT6Ej0yNm0uXF3fpmJ43KJ9UIKKCP4E5Sg/edit?usp=sharing)|45| Create HTML elements with attributes to include links and images in their pages. |N/A|
 
 
 
