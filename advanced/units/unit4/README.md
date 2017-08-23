@@ -5,15 +5,15 @@ In this unit coders will create and object representation of their Portfolio pag
 
 ## Important Links
 
-| Example | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
+| Example Project| Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| [Example](https://scriptedcurriculum.github.io/advanced_objects_solution/) | [Projects Planning Doc](https://drive.google.com/open?id=1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4) | [Starter Code](https://github.com/ScriptEdcurriculum/advanced_portfolio_startercode/blob/master/04_INSTUCTIONS.md)<br> (Unit 1 Portfolio) | [Solution Code](https://github.com/ScriptEdcurriculum/advanced_portfolioobject_solution) | [Rubric](https://drive.google.com/open?id=1_K1rMWlViYBfdbeZotXI9kG-wtpAS5syDIphwRVQlTw) | [Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-4-portfolio-object) |
+| [04 EP](https://scriptedcurriculum.github.io/advanced_objects_solution/) | [04 PP](https://drive.google.com/open?id=1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4) | [04 STC](https://github.com/ScriptEdcurriculum/advanced_portfolio_startercode/blob/master/04_INSTUCTIONS.md)<br> (Students use code from Unit 1) | [04 SLC](https://github.com/ScriptEdcurriculum/advanced_portfolioobject_solution) | [04 RB](https://drive.google.com/open?id=1_K1rMWlViYBfdbeZotXI9kG-wtpAS5syDIphwRVQlTw) | [04 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-4-portfolio-object) |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1e220fa94a_0_26)|<li> 1.1 Structure information as data </li> <li>1.2 Use JavaScript to create a simple object</li> |Add Styling|
-|[**2**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1f587f6424_5_5)|<li> 2.1 Create a data representation using nested objects </li> <li>2.2 Learn to access properties of an object using dot and bracket notation </li> |Work on Project|
-|[**3**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1e220fa94a_0_4)|<li> 3.1 Add new properties, modify, and delete properties an object</li> <li> 3.2 Update existing properties of an object </li> |Submit Project|
+|[**1**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1e220fa94a_0_26)|<li> 1.1 Structure information as data. </li> <li>1.2 Use JavaScript to create a simple object.</li> |Add Styling|
+|[**2**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1f587f6424_5_5)|<li> 2.1 Create a data representation using nested objects. </li> <li>2.2 Learn to access properties of an object using dot and bracket notation. </li> |Work on Project|
+|[**3**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1e220fa94a_0_4)|<li> 3.1 Add new properties, modify, and delete properties an object.</li> <li> 3.2 Update existing properties of an object. </li> |Submit Project|
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-4-objects">Contribute to the Wiki</a></h3>
