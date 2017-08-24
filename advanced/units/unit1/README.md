@@ -7,7 +7,7 @@ In this unit, coders will create an online Portfolio. The Portfolio will provide
 
 | Example Project | Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|[01 EP](https://scriptedcurriculum.github.io/advanced_portfolio_solution/)|[01 PP](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A) |[01 STC](https://github.com/ScriptEdcurriculum/advanced_portfolio_startercode) |[01 SLC](https://github.com/ScriptEdcurriculum/advanced_portfolio_solution) | [01 RB](https://drive.google.com/open?id=1OcgOVmsKKEHgFG6v5Z0eJaVY23k6qdUKJoy5Y3WXS4w) | [01 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-1-portfolio)|
+|[01 EP](https://scriptedcurriculum.github.io/advanced_portfolio_solution/)|[01 PP](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A) |[01 STC](https://github.com/ScriptEdcurriculum/advanced_portfolio_startercode/blob/master/01_INSTRUCTIONS.md) |[01 SLC](https://github.com/ScriptEdcurriculum/advanced_portfolio_solution) | [01 RB](https://drive.google.com/open?id=1OcgOVmsKKEHgFG6v5Z0eJaVY23k6qdUKJoy5Y3WXS4w) | [01 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-1-portfolio)|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
