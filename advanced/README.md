@@ -22,9 +22,14 @@
 
 ## Professional Development Days
 
-| Date  | Session | Objectives <br> *Coders will be able to...*|
+| Date  | Session | Overview|
 |-------|-------|------|
-| September 23rd |[**Advanced Class Launch**](units/launch) |<ul> <li>Understand the requirements of taking part in the ScriptEd Advanced Class and how the experience will be different from their foundations course.   </li> <li> Appropriately communicate with a variety of audiences (formal and informal) using written and verbal methods.  </li> <li> Explain the importance of communicating with ScriptEd Program Managers and expectations for doing so.</li> </ul>   | 
+| September 23rd |[**Advanced Class Launch**](units/launch) | Brief Description Here  | 
+| September 23rd |[**Advanced Class Launch**](units/launch) | Brief Description Here  | 
+| September 23rd |[**Advanced Class Launch**](units/launch) | Brief Description Here  | 
+| September 23rd |[**Advanced Class Launch**](units/launch) | Brief Description Here  | 
+| September 23rd |[**Advanced Class Launch**](units/launch) | Brief Description Here  | 
+
 ----
 ## Wiki
 
