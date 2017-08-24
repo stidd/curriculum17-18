@@ -1,4 +1,4 @@
-# Advanced Class Branding Event Saturday, January 6th
+# Advanced Class Branding Event - January 6th
 
 ## Overview
 All advanced students will meet at a central location. At this event, students will learn about the expectations for the course, meet the larger Advanced Program student community, and be notified of their company placement. 
