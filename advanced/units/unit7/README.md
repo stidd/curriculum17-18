@@ -7,7 +7,7 @@ In this unit, coders will create a Civic Info App. The Civic Info App will take 
 
 | Example Project| Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| [07 EP](https://scriptedcurriculum.github.io/advanced_civics_solution/) |[07 PP](https://docs.google.com/document/d/1djJGD16zKw0DsNOKir0yP6wt-MW751isL-7UDK7ZSRc/edit) | [07 STC](https://github.com/ScriptEdcurriculum/advanced_civics_startercode) | [07 STC](https://github.com/ScriptEdcurriculum/advanced_civics_solution) | [07 RB](https://drive.google.com/open?id=1sE57raysW2J8LFMpNi86e1bfZ8Q9DE0OmLgGnReL-y4) | [07 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-7-api) |
+| [07 EP](https://scriptedcurriculum.github.io/advanced_civics_solution/) |[07 PP](https://docs.google.com/document/d/1djJGD16zKw0DsNOKir0yP6wt-MW751isL-7UDK7ZSRc/edit) | [07 STC](https://github.com/ScriptEdcurriculum/advanced_civics_startercode/blob/master/INSTRUCTIONS.md) | [07 STC](https://github.com/ScriptEdcurriculum/advanced_civics_solution) | [07 RB](https://drive.google.com/open?id=1sE57raysW2J8LFMpNi86e1bfZ8Q9DE0OmLgGnReL-y4) | [07 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-7-api) |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
