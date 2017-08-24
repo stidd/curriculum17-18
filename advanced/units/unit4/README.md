@@ -1,7 +1,7 @@
 # Unit 4: Objects
 
 ## Overview
-In this unit coders will create and object representation of their Portfolio page. In order to create this project, coders will create an object representation of their portfolio, navigate the object and display information to the screen.
+In this unit, coders will create an object representation of their Portfolio page. With this update to their portfolio, all of the displayed information will be generated from a JavaScipt object. To create this project, coders will create an object representation of their portfolio, navigate the object, and display information to the screen.
 
 ## Important Links
 
