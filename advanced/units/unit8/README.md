@@ -1,7 +1,7 @@
 # Unit 8: Client Project
 
 ## Overview
-In this unit coders create a Client Project. Coders will work in pairs to create a project for a client based on a given set of API's. It is a culminating project that will incorporate all of the skills learned thus far and is intended to highlight some important aspects of goal setting and project management.
+In this unit, coders create a Client Project. Coders will work in pairs to create a project for a client based on a given set of API's. This is a culminating project that incorporates all of the skills that have been taught in the course and is intended to highlight some important aspects of goal setting and project management.
 
 ## Important Links
 
