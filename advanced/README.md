@@ -24,11 +24,11 @@
 
 | Date  | Session | Overview|
 |-------|-------|------|
-| September 23rd |[**Advanced Class Launch**](units/launch) | Brief Description Here  | 
-| September 23rd |[**Advanced Class Launch**](units/launch) | Brief Description Here  | 
-| September 23rd |[**Advanced Class Launch**](units/launch) | Brief Description Here  | 
-| September 23rd |[**Advanced Class Launch**](units/launch) | Brief Description Here  | 
-| September 23rd |[**Advanced Class Launch**](units/launch) | Brief Description Here  | 
+| September 23rd |[**Advanced Class Launch**](units/launch) |During this session coders will learn the basics of professional communication and be equip with the necessary tools for success for their advanced class including calendar skills, introduction to slack, and receiving feedback.  | 
+| January 6th |[**Professional Branding**](units/launch) | After developing their communication skills and portfolio, coders will learn how to best market themselves in the workforce. This session will include resume and cover letter writing, preparing for both technical and non-technical interviews, and learning how to connect with the tech community online.  | 
+| April 21st  |[**Tech Career Day**](units/launch) | Now that coders understand how to tell their stories, they will put these skills into action with a mock interview day. Coders will also practice networking skills, sit in on a career panel with tech professionals and discuss issues of equity and inclusion within the industry.  | 
+| June 28nd-30th |[**Internship Bootcamp**](units/launch) | Coders who have been accepted into the ScriptEd Internship Program will receive intensive professional development training in preparation for their summer experience. These sessions include identifying work appropriate attire, time management, meeting with your manager, and taking part in a panel with ScriptEd alum to discuss their summer internship experience.  | 
+| July 27th |[**Financial Literacy and Networking**](units/launch) | At the midpoint of their internship, coders will come together to for further training including financial literacy, updating their resumes and keeping in contact with their internship teams, and revisit the discussion on equity and inclusion now that they have experience within the industry.  | 
 
 ----
 ## Wiki
