@@ -2,7 +2,7 @@
 
 
 ## Overview
-In this unit coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. In order to create this project, coders will use jQuery to take user input and display data, functions to separate concerns, string methods separate and transform words, for loops to iterate over multiple items in an array, array methods to add items and join items into a sentence.
+In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. To create this project, coders will use jQuery to take user input and display data, functions to separate concerns, string methods to separate and transform words, for loops to iterate over multiple items in an array, and array methods to add items and join items into a sentence.
 
 ## Important Links
 
