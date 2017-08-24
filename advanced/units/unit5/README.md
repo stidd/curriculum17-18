@@ -1,7 +1,7 @@
 # Unit 5: Playlist
 
 ## Overview: 
-In this unit coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. In order to create this project, coders will create an array of songs objects, use a for loop to iterate over the array of object, and display data to the screen using jQuery.
+In this unit, coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. To create this project, coders will create an array of songs objects, use a for loop to iterate over the array of object, and display data to the screen using jQuery.
 ## Important Links
 
 | Example Project | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
