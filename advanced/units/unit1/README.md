@@ -2,7 +2,7 @@
 
 
 ## Overview
-In this unit coders will create a professional portfoilio. Coders will use bootstrap and to create a reponsive page. Coders will use this portfolio as place to upload future projects after they are completed.
+In this unit, coders will create an online Portfolio. The Portfolio will provide personal information, links to their prior projects, and contact information. To create this project, coders will use bootstrap to layout their page and gh-pages to host their portfolio.
 ## Important Links
 
 | Example Project | Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
