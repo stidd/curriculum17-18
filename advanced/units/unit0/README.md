@@ -6,7 +6,7 @@ In this unit, coders will work on team building and go over daily routines and p
 ## Important Links
 |  Starter Code | Solution Code  | Extra Resources |
 |:-------:|:-------:|:-------:|
-|[Scavenger Hunt](https://github.com/ScriptEdcurriculum/advanced_scavengerhunt_startercode)<br>[HTML CSS Debugging](https://github.com/ScriptEdcurriculum/advanced_htmlcssdebugging_startercode)|[Scavenger Hunt](https://github.com/ScriptEdcurriculum/advanced_scavengerhunt_solution) |  [Wiki]()       |
+|[Scavenger Hunt](https://github.com/ScriptEdcurriculum/advanced_scavengerhunt_startercode)<br>[HTML CSS Debugging](https://github.com/ScriptEdcurriculum/advanced_htmlcssdebugging_startercode)|[Scavenger Hunt](https://github.com/ScriptEdcurriculum/advanced_scavengerhunt_solution) <br> [HTML CSS Debugging](https://github.com/ScriptEdcurriculum/advanced_htmlcssdebugging_solution)|  [Wiki]()       |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
