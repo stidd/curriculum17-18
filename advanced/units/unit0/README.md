@@ -6,12 +6,12 @@ In this unit, coders will work on team building and go over daily routines and p
 ## Important Links
 |  Starter Code | Solution Code  | Extra Resources |
 |:-------:|:-------:|:-------:|
-|[Scavenger Hunt](https://github.com/ScriptEdcurriculum/advanced_scavengerhunt_startercode)<br>[HTML CSS Debugging](https://github.com/ScriptEdcurriculum/advanced_htmlcssdebugging_startercode)|[Scavenger Hunt](https://github.com/ScriptEdcurriculum/advanced_scavengerhunt_solution) <br> [HTML CSS Debugging](https://github.com/ScriptEdcurriculum/advanced_htmlcssdebugging_solution)|  [Wiki]()       |
+|[Scavenger Hunt](https://github.com/ScriptEdcurriculum/advanced_scavengerhunt_startercode)<br>[HTML CSS Debugging](https://github.com/ScriptEdcurriculum/advanced_htmlcssdebugging_startercode)|[Scavenger Hunt](https://github.com/ScriptEdcurriculum/advanced_scavengerhunt_solution) <br> [HTML CSS Debugging](https://github.com/ScriptEdcurriculum/advanced_htmlcssdebugging_solution)|  [Wiki]()  |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/18TiH7DVAUsQ3G9cDqkcX1QK1gkOlbT_fSQtXfOu4O3o/edit#slide=id.g24b294ee22_0_339)|<li>Learn class routines and prodcedures</li> <li>Begin scavenger hunt to review HTML CSS and Javascript</li> ||
+|[**1**](https://docs.google.com/presentation/d/18TiH7DVAUsQ3G9cDqkcX1QK1gkOlbT_fSQtXfOu4O3o/edit#slide=id.g24b294ee22_0_339)|<li>Learn class routines and prodcedures</li> <li>Begin scavenger hunt to review HTML CSS and Javascript</li> | Write an email to your volunteer team telling them about yourself and what you are excited to do this year. |
 |[**2**](https://docs.google.com/presentation/d/18TiH7DVAUsQ3G9cDqkcX1QK1gkOlbT_fSQtXfOu4O3o/edit#slide=id.g24b294ee22_0_553)|<li>Complete scavenger hunt to review HTML CSS and Javascript </li> <li>Review addtional javascript concepts</li> ||
 |[**3**](https://docs.google.com/presentation/d/18TiH7DVAUsQ3G9cDqkcX1QK1gkOlbT_fSQtXfOu4O3o/edit#slide=id.g24b294ee22_0_386)|<li>Learn components of an IDE and forking /cloning and project</li> <li>Use the chrome dev tools to debug HTML and CSS</li> ||
 
