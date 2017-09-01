@@ -28,7 +28,7 @@
 | Jan 6 |[**Professional Branding**](pd/2-branding) | On this PD day, coders will learn how to best market themselves to stand out in the workforce. This session will include resume and cover letter writing, preparation for both technical and non-technical interviews, and learning how to connect with the tech community online.  | 
 | Apr 21  |[**Tech Career Day**](pd/3-techcareer) | On this PD day, coders will participate in a mock interview day. Coders will also practice their networking skills, attend a career panel with tech professionals, and discuss issues of equity and inclusion within the industry.  | 
 | Jun 28-30 |[**Internship Bootcamp**](pd/4-bootcamp) | At the ScriptEd Internship Bootcamp, coders who have been accepted into the ScriptEd Internship Program will receive intensive professional development training in preparation for their summer experience. Sessions will include identifying work appropriate attire, time management, meeting with your manager, and taking part in a panel with ScriptEd alum to discuss their summer internship experience.  | 
-| Jul 27 |[**Financial Literacy and Networking**](pd/5-financialliteracy) | At the midpoint of their internship, coders will come together for further training on financial literacy, resume updating, networking, and revisit the discussion on equity and inclusion now that they have experience within the industry.  | 
+| Jul 27 |[**Mid-Internship Training**](pd/5-financialliteracy) | At the midpoint of their internship, coders will come together for further training on financial literacy, resume updating, networking, and revisit the discussion on equity and inclusion now that they have experience within the industry.  | 
 
 ----
 ## Wiki
