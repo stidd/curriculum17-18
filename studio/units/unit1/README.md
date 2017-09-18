@@ -6,6 +6,8 @@
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
-|[**1**]()| |Add Styling|
+|[**1**](https://docs.google.com/presentation/d/1u617YJX5-k7gr__EJdpggQPeG74GIXuR2bZtyvxojps/edit#slide=id.g1e220fa94a_0_26)| <li> Wireframe </li> <li> Setup Project </li> <li> Bootstrap </li> |Add Styling|
+|[**2**](https://docs.google.com/presentation/d/1u617YJX5-k7gr__EJdpggQPeG74GIXuR2bZtyvxojps/edit#slide=id.g1f587f6424_5_5)| <li> Setting up firebase </li> <li> Accessing Data </li> |Add Styling|
+|[**3**](https://docs.google.com/presentation/d/1u617YJX5-k7gr__EJdpggQPeG74GIXuR2bZtyvxojps/edit#slide=id.g1e220fa94a_0_4)| |<li> Finish Projects on Portfolio </li> |
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfz_Bouj3es20oVY-eS6ivdOSWcuideOEChKt5E2XVEFfdiIg/viewform">Submit Your Feedback!</a></h3>
