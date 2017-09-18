@@ -9,7 +9,7 @@
 | [**Launch Day**](units/launch) | 1  | Intro | All studio students will meet at a central location. At this event, students will learn about the expectations for the course, meet the larger Studio Program student community, and be notified of their company placement.|
 | [**0: Intro and Review**](units/unit0) | 3 | | |
 | [**1: Portfolio**](units/unit1) | 3 | | | 
-| [**2: Code Lab**](units/unit2) | 3 | | |
+| [**2: Firebase Code Labs**](units/unit2) | 3 | | |
 | [**Site Specific**]() | 1 | | |
 | [**3: Firebase and React**](units/unit3) | 3 | | |
 | [**4: Firebase and React**](units/unit4) | 3 | | |
