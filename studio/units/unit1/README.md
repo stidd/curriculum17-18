@@ -3,6 +3,10 @@
 ## Overview
 In this unit, coders will create an online Portfolio. The Portfolio will provide personal information, links to their prior projects, and contact information. To create this project, coders will use bootstrap to layout their page and gh-pages to host their portfolio.
 
+| Example Project | Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|[01 EP]()|[01 PP]() |[01 STC]() |[01 SLC]() | [01 RB]() | [01 Wiki]()|
+
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
