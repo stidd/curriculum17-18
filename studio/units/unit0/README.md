@@ -7,11 +7,12 @@ In this unit, coders will work on team building and go over daily routines and p
 
 | Example Project | Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|[01 EP]()|[01 PP]() |[01 STC]() |[01 SLC]() | [01 RB]() | [01 Wiki]()|
+|[00 EP]()|[00 PP]() |[00 STC]() |[00 SLC]() | [00 RB]() | [00 Wiki]()|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
-|[**1**]()| |Add Styling|
+|[**1**](https://docs.google.com/presentation/d/1t7EAvZTNv1CLcCgQmgzydvq5CPYyyuAAug159sGq1NY/edit#slide=id.g24b294ee22_0_339)| |Add Styling|
+|[**2**](https://docs.google.com/presentation/d/1t7EAvZTNv1CLcCgQmgzydvq5CPYyyuAAug159sGq1NY/edit#slide=id.g24b294ee22_0_553)| |Add Styling|
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfz_Bouj3es20oVY-eS6ivdOSWcuideOEChKt5E2XVEFfdiIg/viewform">Submit Your Feedback!</a></h3>
