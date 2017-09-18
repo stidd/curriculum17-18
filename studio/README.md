@@ -1,7 +1,12 @@
 # Studio Curriculum, 17-18
 
 ## Pacing Calendar
-![Imgur](http://i.imgur.com/FjcjDdw.png)
+
+|     | OCT | NOV | DEC | JAN | FEB | MAR | APR | MAY |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Course Content** | 0.Into/Review  1.Portfolio | 1.Portfolio 2.Firebase   | 3.React | 4.React/ Firebase | 5.React/ Firebase | 5.React/ Firebase | 6.Open Source | 7.Final Project | 
+| **Reviews** |||||**Mid-Year**||| **EOY** |
+
 ## Scope and Sequence
 
 | Unit  | Sessions | Skills | Overview|
