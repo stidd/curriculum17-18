@@ -5,9 +5,9 @@ In this unit, coders will work on team building and go over daily routines and p
 
 ## Important Links
 
-| Example Project | Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
+  Starter Code | Solution Code  | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|[00 EP]()|[00 PP]() |[00 STC]() |[00 SLC]() | [00 RB]() | [00 Wiki]()|
+| [00 STC](https://github.com/ScriptEdcurriculum/studio_scavengerhunt_startercode/tree/master) |[00 SLC]() | [00 Wiki]()|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
