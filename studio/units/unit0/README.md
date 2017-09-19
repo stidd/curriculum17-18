@@ -6,7 +6,7 @@ In this unit, coders will work on team building and go over daily routines and p
 ## Important Links
 
   Starter Code | Solution Code  | Extra Resources |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|:-------:|:-------:|:-------:|
 | [00 STC](https://github.com/ScriptEdcurriculum/studio_scavengerhunt_startercode/tree/master) |[00 SLC]() | [00 Wiki]()|
 
 ## Sessions 
