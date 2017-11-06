@@ -10,7 +10,7 @@ Chat application as an example.
 ## Important Links
 | Example Project | Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|[01 EP]()|[01 PP]() |[01 STC]() |[01 SLC]() | [01 RB]() | [01 Wiki]()|
+|[02 EP]()|[02 PP]() |[02 STC]() |[02 SLC]() | [02 RB]() | [02 Wiki]()|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
