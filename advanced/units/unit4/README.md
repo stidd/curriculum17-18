@@ -13,7 +13,7 @@ In this unit, coders will create an object representation of their Portfolio pag
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1e220fa94a_0_26)|<li> 1.1 Structure information as data. </li> <li>1.2 Use JavaScript to create a simple object.</li> |Add Styling|
-|[**2**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1f587f6424_5_5)|<li> 2.1 Create a data representation using nested objects. </li> <li>2.2 Learn to access properties of an object using dot and bracket notation. </li> |Work on Project|
-|[**3**](https://docs.google.com/presentation/d/1YImE4Aats1llh0OGgYVK4oR6ZVs73Kp490hyhbTe0E4/edit#slide=id.g1e220fa94a_0_4)|<li> 3.1 Add new properties, modify, and delete properties an object.</li> <li> 3.2 Update existing properties of an object. </li> |Submit Project|
+|[**2**](https://docs.google.com/presentation/d/1vgl3XeYJ53uAr-F27aDhvnh1UcqkRY2WTI_tnfVppX4/edit#slide=id.g1e220fa94a_0_30)|<li> 2.1 Create a data representation using nested objects. </li> <li>2.2 Learn to access properties of an object using dot and bracket notation. </li> |Work on Project|
+|[**3**](https://docs.google.com/presentation/d/1JocVRAVrGcma0OldpbI4Ls8mIAiDp50uToWwIA9ovNw/edit#slide=id.g1e220fa94a_0_30)|<li> 3.1 Add new properties, modify, and delete properties an object.</li> <li> 3.2 Update existing properties of an object. </li> |Submit Project|
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-4-objects">Contribute to the Wiki</a></h3>

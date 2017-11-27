@@ -5,7 +5,7 @@ In this unit, coders will create an online Portfolio. The Portfolio will provide
 
 | Example Project | Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|[01 EP]()|[01 PP]() |[01 STC]() |[01 SLC]() | [01 RB]() | [01 Wiki]()|
+|[01 EP]()|[01 PP]() |[01 STC](https://github.com/ScriptEdcurriculum/studio_portfolio_startercode) |[01 SLC](https://github.com/ScriptEdcurriculum/studio_portfolio_solution) | [01 RB]() | [01 Wiki]()|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
