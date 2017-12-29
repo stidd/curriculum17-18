@@ -9,10 +9,7 @@ In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a 
 
 | Example Project | Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|[03 EP](https://scriptedcurriculum.github.io/adv_pgl_sol_3/)|[03 PP](https://docs.google.com/document/d/1gINwUa2YyBhAvlKkdAlfm9gJxnnkbiTPE1QV_O_PmJc/edit)|[03 STC](https://github.com/ScriptEdcurriculum/piglatinizer/blob/master/INSTRUCTIONS.md)|
-[03.01](https://github.com/ScriptEdcurriculum/adv_pgl_sol_1)
-[03.02](https://github.com/ScriptEdcurriculum/adv_pgl_sol_2)
-[03.03](https://github.com/ScriptEdcurriculum/adv_pgl_sol_3)|[03 RB](https://drive.google.com/open?id=13vHr_fpuyip958JHw2eYt8P7UQsGz9-crCHPZKyNVf4)|[03 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-3-pig-latinizer)|
+|[03 EP](https://scriptedcurriculum.github.io/adv_pgl_sol_3/)|[03 PP](https://docs.google.com/document/d/1gINwUa2YyBhAvlKkdAlfm9gJxnnkbiTPE1QV_O_PmJc/edit)|[03 STC](https://github.com/ScriptEdcurriculum/piglatinizer/blob/master/INSTRUCTIONS.md)|[03.01](https://github.com/ScriptEdcurriculum/adv_pgl_sol_1) [03.02](https://github.com/ScriptEdcurriculum/adv_pgl_sol_2) [03.03](https://github.com/ScriptEdcurriculum/adv_pgl_sol_3)|[03 RB](https://drive.google.com/open?id=13vHr_fpuyip958JHw2eYt8P7UQsGz9-crCHPZKyNVf4)|[03 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-3-pig-latinizer)|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
