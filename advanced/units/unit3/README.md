@@ -14,7 +14,7 @@ In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/13c8FrlzFuNA8yJTmCdLkEG4PYw_LnL0Q1Lgmlc2gTPs/edit#slide=id.g2c7704967c_0_0)|<li>  1.1 Plan a project</li> <li> 1.2 Create a click handler to take user input and write a function that takes a parameter and returns a transformed word</li>|Complete HTML <br> and click handler <br> Find three string methods|
+|[**1**](https://docs.google.com/presentation/d/13c8FrlzFuNA8yJTmCdLkEG4PYw_LnL0Q1Lgmlc2gTPs/edit#slide=id.g2c7704967c_0_0)|<li>  1.1 Plan their project and set up HTML</li> <li> 1.2 Create a click handler to take user input and write a function that takes a parameter and returns a transformed word</li>|Complete HTML <br> and click handler <br> Find three string methods|
 |[**2**](https://docs.google.com/presentation/d/1XrtHFhijKP6oEbsbakqtPpnBrahbsHSgHc3JmQPj6s8/edit#slide=id.g1e220fa94a_0_30)|<li> 2.1 Split a string into an array and iterate over the new array </li> <li> 2.2 Concatenate a strings into a sentence</li> |Complete code to make single word transform <br> Find three array methods|
 |[**3**](https://docs.google.com/presentation/d/1prZprZ2Px5-3-ZLMT0g_Vy4mRS7qLCKhA2B8y5oaKIE/edit#slide=id.g1e220fa94a_0_30)|<li> 3.1 Use split() to access different parts of a string </li> <li> Finsish working on your project</li> |Finish working project <br> Submit Project|
 
