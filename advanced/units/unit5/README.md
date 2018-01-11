@@ -1,4 +1,4 @@
-# Unit 6: Giphy API
+# Unit 5: Giphy API
 
 
 ## Overview
@@ -9,7 +9,7 @@ In this unit, coders will create a Giphy App. The Giphy App will take a search t
 
 | Example Project | Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|[06 EP](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[06 PP](https://docs.google.com/document/d/1LJcfvOTUZHwjdjZMU-94r5tXVEYmhJjb6ExYJf0zSQ8/edit)|[06 STC](https://github.com/ScriptEdcurriculum/advanced_giphy_startercode/blob/master/INSTRUCTIONS.md)|[06 SLC](https://github.com/ScriptEdcurriculum/advanced_giphy_solution) | [06 RB](https://drive.google.com/open?id=1NhN9GCw6g9ySGZYSW3yMyM0Ld-Hjpo0fNJJgY7u1rvo)|[06 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-6-giphy)|
+|[05 EP](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[05 PP](https://docs.google.com/document/d/1LJcfvOTUZHwjdjZMU-94r5tXVEYmhJjb6ExYJf0zSQ8/edit)|[05 STC](https://github.com/ScriptEdcurriculum/advanced_giphy_startercode/blob/master/INSTRUCTIONS.md)|[06 SLC](https://github.com/ScriptEdcurriculum/advanced_giphy_solution) | [05 RB](https://drive.google.com/open?id=1NhN9GCw6g9ySGZYSW3yMyM0Ld-Hjpo0fNJJgY7u1rvo)|[05 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-6-giphy)|
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
