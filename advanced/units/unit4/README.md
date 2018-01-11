@@ -6,7 +6,7 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 
 | Example Project | Student Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| [04 EP](https://ScriptEdcurriculum.github.io/advanced_playlist_solution)| [04 PP](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M) | [04 STC](https://github.com/ScriptEdcurriculum/advanced_playlist_startercode/blob/master/INSTRUCTIONS.md) | [04 SLC](https://github.com/ScriptEdcurriculum/advanced_playlist_solution) | [04 RB](https://drive.google.com/open?id=1sQxfNhRwnK7k08VMeSFkncODpbuCLDdk9Actey5YDVo) | [04 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-5-playlist) |
+| [04 EP](https://ScriptEdcurriculum.github.io/advanced_playlist_solution)| [04 PP](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M) | [04 STC](https://github.com/ScriptEdcurriculum/playlist) | [04 SLC](https://github.com/ScriptEdcurriculum/advanced_playlist_solution) | [04 RB](https://drive.google.com/open?id=1sQxfNhRwnK7k08VMeSFkncODpbuCLDdk9Actey5YDVo) | [04 Wiki](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-5-playlist) |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
