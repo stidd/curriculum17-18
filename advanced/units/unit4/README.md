@@ -11,8 +11,8 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1r-jrg8aBtzApm5YOBokQ22VIBVAsLoqmr6PVx118h50/edit#slide=id.g1e220fa94a_0_30)| <li> Plan and set up their project. </li> <li> Access and display data from and Object using JQuery </li> |Add Styling|
-|[**2**](https://docs.google.com/presentation/d/1wuoovzLYMnetA2Vv_YJ4Y5ZUlx2u2hBZM6Qc06sH3Tk/edit#slide=id.g1e220fa94a_0_30)| <li> Create a loop that iterates through an array of objects. </li> <li> Use jQuery and string concatenation to display data on the page.</li> |Work on Project|
-|[**3**](https://docs.google.com/presentation/d/1JA5HJ7zpyepBk3E9z0vDt1tlP_rnee-kdKTBnCwpr4k/edit#slide=id.g1e220fa94a_0_30)| <li> Push new items to and array using .push() </li> |Submit Project|
+|[**1**](https://docs.google.com/presentation/d/1-_x0S67S99RnI-Hzy-VCw675UDbJ8M50NYcewM6aYa4/edit#slide=id.g2f96b858f9_0_303)| <li> Plan and set up their project. </li> <li> Access and display data from and Object using JQuery </li> |Add Styling|
+|[**2**](https://docs.google.com/presentation/d/1DE8OrI5Tnprl4WmdTX9Lf26ZRhDpQ2I1qLmQQIPsv88/edit#slide=id.g2f9cb3e494_0_0)| <li> Create a loop that iterates through an array of objects. </li> <li> Use jQuery and string concatenation to display data on the page.</li> |Work on Project|
+|[**3**](https://docs.google.com/presentation/d/1_ZEsmlyDs-r0tO_RNVpoKiCgJ3KBpEe_f0pykEJ2E6A/edit#slide=id.g2f9e458d2d_0_0)| <li> Push new items to and array using .push() </li> |Submit Project|
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedbac</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-5-playlist">Contribute to the Wiki</a> </h3>
