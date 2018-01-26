@@ -1,7 +1,7 @@
 # Advanced Curriculum, 17-18
 
 ## Pacing Calendar
-![Imgur](http://i.imgur.com/RcqXUfU.png)
+![Imgur](pacingcalendar.png)
 
 ## Scope and Sequence
 
