@@ -6,7 +6,7 @@ Coders will take a coding challenge that will test all the skills they have been
 ## Important Links
 | Review | Hacker Rank |
 |:-------:|:-------:|
-|[Review]()|[Challenge]() |
+|[Review](https://drive.google.com/open?id=1EF70WFuf3O8vif9ApZN00UgtCtz2aGVzR5EloVq0P4Q)|[Challenge](http://hr.gs/myc-adv-1718) |
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
